@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".gitmodules"
-hash = "e3068fa2c9562b6c16b51f3b8aff1dfe1ce488dc8283b8fda16de6dd5e6ab53f"
-
-[[files]]
 file = "config/DistantHorizons.toml"
 hash = "154b306d798e80af36cbaf613008c8deca14b4a1ee2f0211344d1b4bc964e2f7"
 
@@ -897,70 +893,6 @@ file = "config/zeta-common.toml"
 hash = "684816927033626b990f8e277a43c0e24f6ef650cb38f9fee935f974fffd7392"
 
 [[files]]
-file = "mods/.connector/bclib-3.0.14$wunderlib-1.1.5_mapped_srg_1.20.1.jar"
-hash = "ba7b8294061f9024b8531626d25fb6361dc3254cae0b7d58974c0ee97e1fb7f7"
-
-[[files]]
-file = "mods/.connector/bclib-3.0.14$wunderlib-1.1.5_mapped_srg_1.20.1.jar.input"
-hash = "48a9bdcd4fad1b5124284e807c985a2696d65106d5267d2cebaaadfbe24b07e0"
-
-[[files]]
-file = "mods/.connector/bclib-3.0.14_mapped_srg_1.20.1.jar"
-hash = "05f55ac3c70ba39596b5415bee8c369d5e9f33385525134cda566d06122d8ae2"
-
-[[files]]
-file = "mods/.connector/bclib-3.0.14_mapped_srg_1.20.1.jar.input"
-hash = "d5ba31b820f1f77c0d2576450e5ab675f3a183ca3622b72c180ce1d3c3ce884d"
-
-[[files]]
-file = "mods/.connector/better-end-4.0.11_mapped_srg_1.20.1.jar"
-hash = "6484def652af6be240d7481d5fc2676298f667cd9c358f0ea3b17370f58f36ea"
-
-[[files]]
-file = "mods/.connector/better-end-4.0.11_mapped_srg_1.20.1.jar.input"
-hash = "dc73c5806ee7f1b770720e16c3303ef38eb486293820585829926a29ab37adba"
-
-[[files]]
-file = "mods/.connector/better-nether-9.0.10_mapped_srg_1.20.1.jar"
-hash = "3148fe15fe9c7c6ce622c780e5f09a04874a708134022fd459fc03cc524fab74"
-
-[[files]]
-file = "mods/.connector/better-nether-9.0.10_mapped_srg_1.20.1.jar.input"
-hash = "4d4ef0bed157d410e22f3c5e7a5e3a816f2a47d7b5a11b2cf39bf37c9ab4405f"
-
-[[files]]
-file = "mods/.connector/temp/BetterEndDelight-0.3.0-alpha$WunderLib-1.1.5.jar"
-hash = "7b687a745012dbc1a977c558d72d0368e4e170d03ed0027802ab5eeeec9b33d4"
-
-[[files]]
-file = "mods/.connector/temp/BetterEndDelight-0.3.0-alpha$WunderLib-1.1.5.jar.input"
-hash = "914e4b4aa3a4700b349520c37359a4dea7a5a88564c950b0606b166b84df2c3b"
-
-[[files]]
-file = "mods/.connector/temp/bclib-3.0.14$wunderlib-1.1.5.jar"
-hash = "40a56fbcaca5c1a01abddba67bccc8f47d2b707eeb954ba2e129555790a2c09f"
-
-[[files]]
-file = "mods/.connector/temp/bclib-3.0.14$wunderlib-1.1.5.jar.input"
-hash = "48a9bdcd4fad1b5124284e807c985a2696d65106d5267d2cebaaadfbe24b07e0"
-
-[[files]]
-file = "mods/BeansBackpacks-forge-1.20.1-2.0.2.jar"
-hash = "c6e43e5660a1f321c27bbd85ab2102f93603fb252dfbcc1f754f404e0491d549"
-
-[[files]]
-file = "mods/Connector-1.0.0-beta.46+1.20.1.jar"
-hash = "79d58fd7ced77df600eefc927adbbd8e217c2d6b0778c17aa8b27756703145ac"
-
-[[files]]
-file = "mods/Controlling-forge-1.20.1-12.0.2.jar"
-hash = "cff8c3426a77f9e7412262b6d79e423979eff3831e010b3b1ea9677e1ecd74cd"
-
-[[files]]
-file = "mods/Searchables-forge-1.20.1-1.0.3.jar"
-hash = "461add180eb595004d3c9f5ac0ce337752e403077f96b38304800eadf01fb825"
-
-[[files]]
 file = "mods/amendments.pw.toml"
 hash = "bcc1a00d272a45143109d2808452a9d24bbc886fe199488fb4b7819a79454d17"
 metafile = true
@@ -992,7 +924,7 @@ metafile = true
 
 [[files]]
 file = "mods/beans-backpacks.pw.toml"
-hash = "edfae8ace7b7739b977de09f1983bfd6159de77c02b3197248199a98ac0bd29f"
+hash = "807ef41bfb21ed5abb17697da01a17c91ee05a868f8076fb2ae7b5be2702f905"
 metafile = true
 
 [[files]]
@@ -1014,10 +946,6 @@ metafile = true
 file = "mods/bio-factory.pw.toml"
 hash = "bb1f4a056cc6477388ab58c4d61d3391c7d3e23f03f648e73ffec594ae3dda6e"
 metafile = true
-
-[[files]]
-file = "mods/bio_delight-1.0.1.jar"
-hash = "be59e5dc47d48023143d4f0c54945fabe74ca9796649d5419f08e794f635d9b8"
 
 [[files]]
 file = "mods/biomancy.pw.toml"
@@ -1050,17 +978,9 @@ hash = "008c942efc2e2ec221dd1a760b4a50e2f24ede37747731ba794f5e845554adcb"
 metafile = true
 
 [[files]]
-file = "mods/caelus-forge-3.2.0+1.20.1.jar"
-hash = "43cabe35f0618c0bd01af02e7568ca6f15fd32bb6a90d04c9898bb01e8dc1e81"
-
-[[files]]
 file = "mods/caelus.pw.toml"
 hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
 metafile = true
-
-[[files]]
-file = "mods/caupona-1.20.1-0.4.10.jar"
-hash = "b9188b32ea79202fb35271c0bf9b0bff5d9fb6ebc4bf2d6e0e4337bf0ac4ac44"
 
 [[files]]
 file = "mods/caupona.pw.toml"
@@ -1091,10 +1011,6 @@ metafile = true
 file = "mods/common-network.pw.toml"
 hash = "da5709533d85150e7149c7339729d90e73750a3b6db07254669acf81727d5bf3"
 metafile = true
-
-[[files]]
-file = "mods/common-networking-forge-1.0.5-1.20.1.jar"
-hash = "914b0cbd4544ea8be8b3f3ba5cfd94e5efda036613dc0f6cb6321148bbe1c0a9"
 
 [[files]]
 file = "mods/configured.pw.toml"
@@ -1132,10 +1048,6 @@ hash = "6752a3970c0dfef9abdd6fdd389a23f2df88332356a6e8568b99ab9c68485d66"
 metafile = true
 
 [[files]]
-file = "mods/create-compat-betterend-betternether-1.1.jar"
-hash = "64ba82fc1a75dba8a89698e025c234fadef5a8fd3248c5b47dbebd8a90a596eb"
-
-[[files]]
 file = "mods/create-compat-betterend-betternether.pw.toml"
 hash = "fe1c95f4f154e6244f8efbc5f0ea9065f1fde7281943f26e9153935785a85aae"
 metafile = true
@@ -1167,7 +1079,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "8c6d2dff8778cdeaad90179a845a732562d4dab67ab1fb58c1eee0f34bcc12db"
+hash = "9fd99767788ac2057a81fc222cfc5d21930ea23698be8fad70899f21c6c54d4e"
 metafile = true
 
 [[files]]
@@ -1177,7 +1089,7 @@ metafile = true
 
 [[files]]
 file = "mods/dimensionaldoors.pw.toml"
-hash = "efe778d6800045d54d33cb3799ab7ea4399f423cf6bddc984f1ab6b832ff937c"
+hash = "33feda2a13f751327fb4c73d75b29446652234cff9e2b08a82f35e3a248dc2c9"
 metafile = true
 
 [[files]]
@@ -1267,7 +1179,7 @@ metafile = true
 
 [[files]]
 file = "mods/etched.pw.toml"
-hash = "a5a5475c903b195bdd5f90808b178fa9285e334338e18db7447a8c734514f496"
+hash = "c9f73e2b93b64fb0c44fbbde6245a5d5934143d6c4b9cc9829e3ba62c02ead4e"
 metafile = true
 
 [[files]]
@@ -1284,10 +1196,6 @@ metafile = true
 file = "mods/figura.pw.toml"
 hash = "9c2de144691d57dc2c1833b131da1d3102713cb12020dddce03558ec8b65a3b8"
 metafile = true
-
-[[files]]
-file = "mods/forcecraft-1.20.1-4.2.5.jar"
-hash = "0393d27a3abc1b2c4e9fe72e0af21ad05ec9a8d371d73e6effd5e1ce40b4ea31"
 
 [[files]]
 file = "mods/forcecraft.pw.toml"
@@ -1318,10 +1226,6 @@ metafile = true
 file = "mods/geckoanimfix.pw.toml"
 hash = "499b9dcff2708b6c4152ff49c5f320d87bb803d0b47b4d88778437c48a59d1f5"
 metafile = true
-
-[[files]]
-file = "mods/geckolib-forge-1.20.1-4.7.1.1.jar"
-hash = "f3316bcdc7b7dc18d54982269db6c62790733dbc1b1ba2c0bc64748d87c8f029"
 
 [[files]]
 file = "mods/geckolib.pw.toml"
@@ -1358,10 +1262,6 @@ hash = "67e2603525a3c122ea58cbb9bcd47bf5ccb455fba3e28454d7bfc765892b1a58"
 metafile = true
 
 [[files]]
-file = "mods/hextweaks-5.3.2.jar"
-hash = "61bc4ec7a8915ffd13222306a8321d0204765d2d17aeee8d4a3cb3b1ab537a6f"
-
-[[files]]
 file = "mods/hextweaks.pw.toml"
 hash = "da8bb80ed472ce0c738c516e1d6be4c0c5591c6275a576bdec63a1975270a861"
 metafile = true
@@ -1378,7 +1278,7 @@ metafile = true
 
 [[files]]
 file = "mods/idas.pw.toml"
-hash = "640718128c3c38446f8e143c226a06bdbe583805f0f8beb06e229b986e411cc8"
+hash = "641e8cdce2074ed960325fa823365c9832e01c23fa2031273f5701298618db49"
 metafile = true
 
 [[files]]
@@ -1388,17 +1288,17 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-api.pw.toml"
-hash = "f4c2da6dca3b98278e50c31f15ee95f1af75e27e98bea5a68e7f1e6aaff952f0"
+hash = "955d5428a8febaeff641633cd388ef0fb3b775e5bfe000c847c9a58f5d381d6d"
 metafile = true
 
 [[files]]
 file = "mods/integrated-stronghold.pw.toml"
-hash = "9e3c25c23c702d64a9e826e8cea8e2e941d2252eeabe72d94d73a25fde7904b3"
+hash = "1755530acc84b0e9152cbf68da07fc239b78ac5357e552d1fbb99483bcb6c24e"
 metafile = true
 
 [[files]]
 file = "mods/integrated-villages.pw.toml"
-hash = "04030946cf8ed05628a6aaaf785c7da4f8be665e46d2b1ddb537863d02412fd0"
+hash = "da2fd8a09c9c930931409a8c454a82ec4b8f165c33ebb5bbc7f0bfd7819443a1"
 metafile = true
 
 [[files]]
@@ -1428,7 +1328,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "cd4fe8b667d14c946028050cf9e4c3367868f79d9f429ec18eb47cce34e021a3"
+hash = "a3fc2800be76f3406961d01ab4ab6805b4ca5e269f53d3cb2d58ea39d6afa9f2"
 metafile = true
 
 [[files]]
@@ -1442,22 +1342,14 @@ hash = "854c34183553ce0af5beed4d4583339398b4904ec8144a51d4c75e07c6ae432b"
 metafile = true
 
 [[files]]
-file = "mods/memoryleakfix-forge-1.17+-1.1.5.jar"
-hash = "925c3db4e1d085a43c4d2beaa4eec18367c22abc90c2ce8594b8a129fd3f28dd"
-
-[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
 metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "142f46f5329e67bca9ce93b7f8d8b0f3fc2e388d752603cf4d189fe0a4370836"
+hash = "269ed2c56c11ced2e0cf61a44e2aa261d78d47e3fbafa93fb2bd3f30c6fb61e3"
 metafile = true
-
-[[files]]
-file = "mods/moreiotas-forge-1.20.1-0.1.0-5.jar"
-hash = "127054c462271adc93154a40ea9ef7c05da95847abc390cb21326a0210a250d9"
 
 [[files]]
 file = "mods/moreiotas.pw.toml"
@@ -1576,7 +1468,7 @@ metafile = true
 
 [[files]]
 file = "mods/sculk-horde.pw.toml"
-hash = "23560ca28e138a6a50b49de0adc5f0cda50f63229fd54437959915dfd4472701"
+hash = "64e2bc7cb8340be30bd2e6e7ed4d556600bd66e1bb6b3f808bc4355cd5c76cba"
 metafile = true
 
 [[files]]
@@ -1606,7 +1498,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "b67d4bf5c300d2b261c1109ef64ef31d7530825a723dda0633ab1e889b8ac0bd"
+hash = "04ef40f47440fb3f76353df141db3d0cc428894f44f0bae7068ea3f3435fbe5a"
 metafile = true
 
 [[files]]
@@ -1660,7 +1552,7 @@ metafile = true
 
 [[files]]
 file = "mods/yeetusexperimentus.pw.toml"
-hash = "14b10ee3ac98f98a58c7f63984570a55c60989d9f4a736c629aab054802de859"
+hash = "7dbe376c64d52ddc3e52ca6ce6b07d8c5d76bf9ef68d58267bb9e9c6d8fb2c09"
 metafile = true
 
 [[files]]
@@ -1681,7 +1573,3 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "bdc96c6606e9df3a56df88ab0b44b942df96810cd7b615600f8f1cdc303cf439"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.4.zip"
-hash = "13af6c439ef8651916b18d2d658f134b07ce3c2e835d23d37d5d24c5d43284de"
