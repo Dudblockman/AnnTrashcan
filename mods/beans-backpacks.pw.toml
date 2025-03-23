@@ -1,0 +1,13 @@
+name = "Beans Backpacks (Legacy)"
+filename = "BeansBackpacks-fabric-1.20.1-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kYt0MSgT/versions/tRrZGZ5U/BeansBackpacks-fabric-1.20.1-2.0.2.jar"
+hash-format = "sha512"
+hash = "ddf60f44c5b368ea17f6fa232410be738dcee2336f5ec0e2539d97399ed7cabd328c10fe2cd401d402d3643950f6a18d42d9be02c4148151d18ead50c0e344c7"
+
+[update]
+[update.modrinth]
+mod-id = "kYt0MSgT"
+version = "tRrZGZ5U"

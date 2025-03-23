@@ -1,0 +1,13 @@
+name = "Create: Compat BetterEnd & BetterNether"
+filename = "create-compat-betterend-betternether-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tcb6Gs0z/versions/y0pPydmm/create-compat-betterend-betternether-1.1.jar"
+hash-format = "sha512"
+hash = "5f6b4ad3ddf085a46618cee8f61eb102e66f15d1bbcd5f5f5e161771b65a2217d12c9062a9aa58382f23cb41a3aa6c19dc32d41f62541b8216ea81d43a611449"
+
+[update]
+[update.modrinth]
+mod-id = "tcb6Gs0z"
+version = "y0pPydmm"

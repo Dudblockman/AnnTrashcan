@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Dudblockman",
+      "uniqueId": "a8dcec1e-e4eb-466d-9852-daf7249a26b0"
+    },
+    "time": 1742712179053,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/NrPNNAAKU0"
+    }
+  }
+]
