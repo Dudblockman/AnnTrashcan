@@ -1233,11 +1233,6 @@ hash = "f57b760f1db9b4033c89bd46a296b48e0d6c547de4b60e724e799608dab41bef"
 metafile = true
 
 [[files]]
-file = "mods/gputape.pw.toml"
-hash = "3519d01e4490de15f682c67333b67bd4b7057ba25937d9aaa517c76854f73ef7"
-metafile = true
-
-[[files]]
 file = "mods/grappling-hook-mod-reforged.pw.toml"
 hash = "c2fa5c58e831a56640d574d8cc482b337f7617e102b1e089c74e1dc16b2f9690"
 metafile = true
