@@ -6,3 +6,4 @@
 
 # Exclude packwiz executable
 *.exe
+packwiz
