@@ -1531,6 +1531,11 @@ hash = "32e0f6bce7adc5b09ba3350110ac4be7ee04e556db35ba1db97bacfabd31e4dc"
 metafile = true
 
 [[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "1266ef61162f458b5616b7f7904771786f70c636af4d7b0fb8608693ed954774"
+metafile = true
+
+[[files]]
 file = "mods/trials-chambers-backport.pw.toml"
 hash = "30c98d8056b580253b642de3a14cdbab495142a55db4e9e517b02860bdff6198"
 metafile = true
