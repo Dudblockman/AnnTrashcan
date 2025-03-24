@@ -1193,6 +1193,11 @@ hash = "ba6c13e70f06dde3b8d01d4143c22fea36ec035d7cd8834c7a82aa778a809467"
 metafile = true
 
 [[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+hash = "fd5aa059dd7e148e9ce801455b438425c0ad36537ce4b635edeb524900b15284"
+metafile = true
+
+[[files]]
 file = "mods/figura.pw.toml"
 hash = "9c2de144691d57dc2c1833b131da1d3102713cb12020dddce03558ec8b65a3b8"
 metafile = true
