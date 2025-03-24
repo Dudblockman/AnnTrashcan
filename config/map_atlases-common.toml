@@ -2,14 +2,14 @@
 [general]
 	#The maximum number of Maps (Filled & Empty combined) allowed to be inside an Atlas.
 	#Range: 0 ~ 10000
-	max_map_count = 512
+	max_map_count = 4096
 	#If enabled, you can increase the Empty Map count by inserting Paper
-	accept_paper_for_empty_maps = false
+	accept_paper_for_empty_maps = true
 	#If true, the Atlas is required to have spare Empty Maps stored to expand the Filled Map size
 	require_empty_maps_to_expand = true
 	#Controls how many usable Maps are added when you add a single Map to the Atlas
 	#Range: 0 ~ 64
-	map_entry_value_multiplier = 1
+	map_entry_value_multiplier = 32
 	#Controls how many free Empty Maps you get for 'activating' an Inactive Atlas
 	#Range: 0 ~ 64
 	pity_activation_map_count = 9
@@ -32,7 +32,7 @@
 	round_robin = false
 	#Max of maps to update each tick. Increase to make maps update faster
 	#Range: 0 ~ 9
-	map_updates_per_tick = 1
+	map_updates_per_tick = 3
 	#Makes map update on different threads, speeding up the process. Disable if it causes issues. Especially on servers. Try turning on for a big performance improvement regarding map atlas update
 	#Allowed Values: OFF, SINGLE_PLAYER_ONLY, ALWAYS_ON
 	multithreaded_update = "SINGLE_PLAYER_ONLY"
