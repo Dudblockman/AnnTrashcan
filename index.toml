@@ -526,7 +526,7 @@ hash = "3882ee7db9c01b91aec30b2999425202746bb1f051850b307c1307bc0bfe5db5"
 
 [[files]]
 file = "config/map_atlases-common.toml"
-hash = "aa7f84e5316717915e98adb66ae81eeed0c096880845fbf4f933236470f9d57f"
+hash = "96ea9228fbbd8db40b7e505cd31b88416006a40625cf5ceb71f8bba9f0b1c3b3"
 
 [[files]]
 file = "config/minecolonies-client.toml"
