@@ -1327,6 +1327,21 @@ hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
 metafile = true
 
 [[files]]
+file = "mods/l2-complements.pw.toml"
+hash = "d05428829e34029da5a4365fc5172bab098565355afae7318daa4dd21ff1a7fb"
+metafile = true
+
+[[files]]
+file = "mods/l2hostility.pw.toml"
+hash = "f0a48cc24a01288a11fd9746b94152c514faba8d5b446adc4023dc1ed707ae12"
+metafile = true
+
+[[files]]
+file = "mods/l2library.pw.toml"
+hash = "ffd55fd75d5e38fa62c2afa6ebf24f47df44f6c401fe44b96a9b74509a93ea8e"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "a3fc2800be76f3406961d01ab4ab6805b4ca5e269f53d3cb2d58ea39d6afa9f2"
 metafile = true
