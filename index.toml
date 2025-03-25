@@ -1094,7 +1094,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "78e86b01d4f72cda8d12660151c101b02f0ef1dbcfc5d73f6c8dba10fbd482ee"
+hash = "5adb206eb795bf8bf8b1d310bb755c84a3140e89b8a0a4a18d435af7e5c81620"
 metafile = true
 
 [[files]]
@@ -1199,7 +1199,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "f962525c872e0e925ea0065fccf4efe99ed534c376003db5cf3f6e7faa6b09fb"
+hash = "2329297fc56d8a67865118cc53c294a3e99a291e9efea13e55ba6d7a4f9fabaf"
 metafile = true
 
 [[files]]
@@ -1418,7 +1418,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "200f79b635a087841698c85ac7028f0a1fac2cc4ffae1d59ff3f07a94abfe70e"
+hash = "1fedfa703c512feb6aaf4c5e83c0fd377e70ea1b39493eefcae468dff8fa632e"
 metafile = true
 
 [[files]]
@@ -1493,7 +1493,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
+hash = "1b6859a9de9dd5c851552dcd326b65c69e29014228fe7404a6cb896ed8611f3e"
 metafile = true
 
 [[files]]

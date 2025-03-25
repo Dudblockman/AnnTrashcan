@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 6251728
 project-id = 508933
+
+[option]
+optional = true
+default = true
+description = "Long view distance"

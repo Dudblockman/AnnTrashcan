@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 6204468
 project-id = 901503
+
+[option]
+optional = true
+default = true
+description = "Custom player models"
