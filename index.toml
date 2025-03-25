@@ -890,7 +890,7 @@ hash = "fe0bc8c3a04c4f9c39caea44a81d725dbdc02db561b52d6681c10cb34063174a"
 
 [[files]]
 file = "config/zeta-common.toml"
-hash = "684816927033626b990f8e277a43c0e24f6ef650cb38f9fee935f974fffd7392"
+hash = "ffcafa5895ffcfe421140eb9905d1d2466b29d0a4bb17d2f7c50023d733c634c"
 
 [[files]]
 file = "mods/amendments.pw.toml"
@@ -1384,6 +1384,11 @@ metafile = true
 [[files]]
 file = "mods/necronomicon.pw.toml"
 hash = "318a137293d0919ddeb5e25c3facd5bc83de60366ac6cd5707d28ee650330f62"
+metafile = true
+
+[[files]]
+file = "mods/neruina.pw.toml"
+hash = "370cc7013d4161ac19543d08d386376a979a4a6a0b016f6c76cd391784ba0634"
 metafile = true
 
 [[files]]
