@@ -118,7 +118,7 @@ hash = "fd9c6e1ea0de05c223016c8885ddd84370c325328387f560154b8860db174b2d"
 
 [[files]]
 file = "config/beansbackpacks-common.json5"
-hash = "2f0137f084dfe16b48820c307a0bdf1abb9046d3c4a57512848e16eaf4daa8fa"
+hash = "e47933afdef081d0dd6abdf966bb3613774915ea344c1ac8743aaaa1ba7db56b"
 
 [[files]]
 file = "config/betterend/blocks.json"
