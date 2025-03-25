@@ -118,7 +118,7 @@ hash = "fd9c6e1ea0de05c223016c8885ddd84370c325328387f560154b8860db174b2d"
 
 [[files]]
 file = "config/beansbackpacks-common.json5"
-hash = "536654812ec5e760e06dca5857629b02d7d690d11ba1d1a8d44b89f88ad00240"
+hash = "2f0137f084dfe16b48820c307a0bdf1abb9046d3c4a57512848e16eaf4daa8fa"
 
 [[files]]
 file = "config/betterend/blocks.json"
@@ -1404,6 +1404,11 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "dbd8ee9c150f054d96e1e3cf97c8cb169cf854a84532e21daab9e11309a67fcf"
+metafile = true
+
+[[files]]
+file = "mods/nomadic-tents.pw.toml"
+hash = "0dd7153cdc0d4360e141c3880d9736ca6dd4641448c0ffa71082236b91cd2fc9"
 metafile = true
 
 [[files]]

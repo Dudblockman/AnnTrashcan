@@ -1,9 +1,9 @@
 {
 /* =============== Maximum Stacks =============== */
-  "leather_max_stacks": 4,           // 1 - 64  Default: 4
-  "ender_max_stacks": 4,             // 1 - 8  Default: 4
-  "winged_max_stacks": 4,            // 1 - 64  Default: 4
-  "metal_max_stacks": 7,             // 1 - 64  Default: 7
+  "leather_max_stacks": 8,           // 1 - 64  Default: 4
+  "ender_max_stacks": 8,             // 1 - 8  Default: 4
+  "winged_max_stacks": 8,            // 1 - 64  Default: 4
+  "metal_max_stacks": 14,             // 1 - 64  Default: 7
   "pot_max_stacks": 128,             // 0 - 128  Default: 128
   "cauldron_max_buckets": 24,        // 0 - 128  Default: 24
   "data_driven_overrides": {         // If a backpack is Data-Driven, find it's 'backpack_id' with F3 + H
