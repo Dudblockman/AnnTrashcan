@@ -57,7 +57,7 @@
 			#If true, allows guns enchanted with Fire Starter to light and spread fires on blocks
 			setFireToBlocks = true
 			#If true, allows heavy rounds to break blocks
-			enableBlockBreaking = true
+			enableBlockBreaking = false
 			#If true, allows beam weapons to mine blocks
 			enableBeamMining = true
 

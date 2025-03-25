@@ -9,7 +9,7 @@
 	require_empty_maps_to_expand = true
 	#Controls how many usable Maps are added when you add a single Map to the Atlas
 	#Range: 0 ~ 64
-	map_entry_value_multiplier = 32
+	map_entry_value_multiplier = 16
 	#Controls how many free Empty Maps you get for 'activating' an Inactive Atlas
 	#Range: 0 ~ 64
 	pity_activation_map_count = 9
@@ -35,7 +35,7 @@
 	map_updates_per_tick = 3
 	#Makes map update on different threads, speeding up the process. Disable if it causes issues. Especially on servers. Try turning on for a big performance improvement regarding map atlas update
 	#Allowed Values: OFF, SINGLE_PLAYER_ONLY, ALWAYS_ON
-	multithreaded_update = "SINGLE_PLAYER_ONLY"
+	multithreaded_update = "ALWAYS_ON"
 	#Visually shows map updates
 	debug_map_updates = false
 	#Every how many ticks should markers be updated

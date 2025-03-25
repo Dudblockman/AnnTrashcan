@@ -1,5 +1,5 @@
 #Whether the ctrl key will instead turn *off* the color gradient on patterns
-ctrlTogglesOffStrokeOrder = false
+ctrlTogglesOffStrokeOrder = true
 #Whether scrolling up (as opposed to down) will increase the page index of the spellbook, and vice versa
 invertSpellbookScrollDirection = false
 #Whether scrolling up (as opposed to down) will increase the value of the abacus, and vice versa

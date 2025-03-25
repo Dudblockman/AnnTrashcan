@@ -102,7 +102,7 @@
 	#Allows to use the positions of creative players to define the siege location [false/true|default:true]
 	allow_creative_players_for_siege = true
 	#Undeads always wear a helm when sieging [false/true|default:false]
-	undead_wear_helm_in_siege = false
+	undead_wear_helm_in_siege = true
 	#Mobs in siege are persistent [false/true|default:false]
 	persistent_mob_in_siege = false
 	#Shuffles the list of players before testing the siege location [false/true|default:true]
@@ -112,10 +112,10 @@
 	siege_chance = 10
 	#Maximum of creatures appearing in a siege [0..100|default:20]
 	#Range: 0 ~ 100
-	siege_max_creature = 20
+	siege_max_creature = 60
 	#Delay in seconds for a second test of siege when the first failed [0..1200|default:200]
 	#Range: 0 ~ 1200
-	delay_siege_test = 200
+	delay_siege_test = 400
 
 #For settings related to magic items
 [magic_item]
@@ -151,7 +151,7 @@
 	restock_time_grave_guardian = 60
 	#Time in minutes to check if a soul appears on a grave [1..10000|default:30]
 	#Range: 1 ~ 10000
-	time_soul = 30
+	time_soul = 20
 	#Chance on 1000 that a soul appears on a grave [0..1000|default:100]
 	#Range: 0 ~ 1000
 	chance_soul = 100

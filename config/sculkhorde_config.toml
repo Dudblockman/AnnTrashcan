@@ -1,7 +1,7 @@
 
 ["Performance Settings"]
 	#Should the automatic performance system be disabled? (Default False)
-	disable_auto_performance_system = false
+	disable_auto_performance_system = true
 	#How many sculk mobs should be allowed to exist at one time? (Default 200)
 	#Range: 0 ~ 1000
 	max_unit_population = 200

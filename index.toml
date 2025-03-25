@@ -194,7 +194,7 @@ hash = "4bf126f8a6aec7940ab9fbcb9c046773c9bd9940db255de09b8fc6e267477e69"
 
 [[files]]
 file = "config/chancecubes/chancecubes-server.toml"
-hash = "7cf3456cbd3be0d62e323c5e98b3774aa9bc08ecce322f8e526f2766c91577a1"
+hash = "69d6692ac268e7f5db8560f520d7e1c85f366ef72a2cf7aff46aedbdf9c876d7"
 
 [[files]]
 file = "config/chancecubes/custom_rewards/CustomSounds-Resourcepack.zip"
@@ -434,7 +434,7 @@ hash = "c2b9b3e441f04d0e51bf4e9696fbc7a1756e23c069886a2159c850b69e03eed8"
 
 [[files]]
 file = "config/hexcasting-client.toml"
-hash = "999879d1a458d1c35fd3734f3a21b0630296185c91c874cf3ade0fbec0d5223b"
+hash = "7fe9bc210152edc6cdc53b89407d9891d30de450180d511b1683bc49770e3f44"
 
 [[files]]
 file = "config/hexcasting-common.toml"
@@ -526,7 +526,7 @@ hash = "3882ee7db9c01b91aec30b2999425202746bb1f051850b307c1307bc0bfe5db5"
 
 [[files]]
 file = "config/map_atlases-common.toml"
-hash = "96ea9228fbbd8db40b7e505cd31b88416006a40625cf5ceb71f8bba9f0b1c3b3"
+hash = "7e197229d780dc2f9459d84e925c40f20c7e7d56c44cc1321a865afb8de526f2"
 
 [[files]]
 file = "config/minecolonies-client.toml"
@@ -546,7 +546,7 @@ hash = "1c4b2f085de10ae681570669250bfcf06a1f04c1e53ae70e3de49300ed0d8498"
 
 [[files]]
 file = "config/moonlight-client.toml"
-hash = "135255a72816385345a135fa013c93dd1737c35eebb80690d29d1b572917267d"
+hash = "d1a34f21182241eefc355810faedb24bdbf2ad80ff9fdbecaf614aa521ae97e4"
 
 [[files]]
 file = "config/moonlight-common.toml"
@@ -558,7 +558,7 @@ hash = "b2ed15f55eb1b57f7e1b4a81b99edd02d98d9000d319d72d73caae13e5fc4cc4"
 
 [[files]]
 file = "config/mowziesmobs-common.toml"
-hash = "57247631f0428b515892290ce00491bd77f9813020be8aa57881be0df32ec75d"
+hash = "49fe8d395229f1e6353606dab7e683aadaa1589153a62c0c39effa1c11b2bcb9"
 
 [[files]]
 file = "config/mutil-client.toml"
@@ -750,11 +750,11 @@ hash = "37d7e1abf160785d5f86d30da9b5b7a0d1c5641abf470b6828aba8a082f1175f"
 
 [[files]]
 file = "config/scguns-common.toml"
-hash = "812af447e0a0b83576a051f571a0907f10d825999e093d21f4c9eba526b00da9"
+hash = "51ec566894d19ec1be3571a6491c132cd930e380b20e6489b6750b203c61567b"
 
 [[files]]
 file = "config/sculkhorde_config.toml"
-hash = "db786aac296cddc25bca5d33270cbb4c3862ac658a5d45bb05c41e60118b44eb"
+hash = "5330aadcf2f6e4d7501ab8719aaa377fdf7ff7e2784e463be5a64dc18660dd40"
 
 [[files]]
 file = "config/spark/activity.json"
@@ -798,7 +798,7 @@ hash = "d2aca6ac63aa0553f013e0bb117a07af158bce0ca148dff5a89f604e41e066f5"
 
 [[files]]
 file = "config/tetra.toml"
-hash = "765e7680881670367eaa38d0a1d539f00bb2a7fdc57b3b2b205a1e284a6ef0c1"
+hash = "1d6ef2980d429ff4e95df113945debaa662148d6f527f49d54802021dd8d569f"
 
 [[files]]
 file = "config/tombstone-client.toml"
@@ -806,11 +806,11 @@ hash = "b7893669e874a7787d6b2794048dd5a6060bb5f9c2161c66e19f12020af9ade9"
 
 [[files]]
 file = "config/tombstone-common.toml"
-hash = "3f4262caa644db5a9e428835cc01b506c7ba262e1412d3427134273b0b8b9ab7"
+hash = "6aab818e937653524de211c97044504027c049e5392277204419d1ed2b8e0217"
 
 [[files]]
 file = "config/tombstone-server.toml"
-hash = "425ab6ee47c7b8db4e957df1665691d8a7e61f4605c66be12dfd8575ad952dc1"
+hash = "ad13c0b3da6c56e76f889bf7b229029d78cc3c9ef8f47a640b042c28626b399c"
 
 [[files]]
 file = "config/tombstone/loottables/tombstone-pool-abandoned_grave.json"

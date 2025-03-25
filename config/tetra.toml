@@ -11,7 +11,7 @@
 	#Enables commands & data reloading functionality useful for development, has a negative impact on performance
 	development = false
 	#If enabled and Curios is installed, Toolbelts will only work in the Curio belt slot
-	toolbelt_curio_only = false
+	toolbelt_curio_only = true
 	#Features that are considered experimental can be listed here to enable them
 	experimental_features = []
 	#Features can be listed here to disable them
