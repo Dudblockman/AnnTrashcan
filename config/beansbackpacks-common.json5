@@ -32,5 +32,5 @@
   "lockBackpackNotOwner": false,     // Default: false
   "lockEnderOffline": false,         // Default: false
   "lockBackpackOffline": false,      // Default: false
-  "keepBackSlot": false              // Default: false
+  "keepBackSlot": true              // Default: false
 }

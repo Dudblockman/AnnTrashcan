@@ -118,7 +118,7 @@ hash = "fd9c6e1ea0de05c223016c8885ddd84370c325328387f560154b8860db174b2d"
 
 [[files]]
 file = "config/beansbackpacks-common.json5"
-hash = "e47933afdef081d0dd6abdf966bb3613774915ea344c1ac8743aaaa1ba7db56b"
+hash = "fd97ae1e88af9c1994f1f86fd9cc68be41c73cdfc5b03910ccbfc7983c987c6f"
 
 [[files]]
 file = "config/betterend/blocks.json"
@@ -993,6 +993,11 @@ hash = "6bceebf72b5c38c350d3a9548240e2689df2e21ef3dc33df8764f8eb1fbbe7e6"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "02b6b3942f3f54e0137af76cedc9921ed1cee6bb1e10a3471bed6ab60e8ddcd9"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "ab769d9c60cfba798a0538bad596e374dc9c68a9c59ad83684afc66ce4ebfe7f"
 metafile = true
@@ -1463,7 +1468,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "be00342cb8a221251aabbd291da2b6be9fc327b750b9e5818313a9da39349180"
+hash = "a764137af8157a15bce180d539c4a7e9e918aaff0e739dc8bb40aeb805769d5d"
 metafile = true
 
 [[files]]
@@ -1508,7 +1513,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "1b6859a9de9dd5c851552dcd326b65c69e29014228fe7404a6cb896ed8611f3e"
+hash = "b309a9627de6d1566c146d6b006d9e2b85a3d29c6cdcc5a3bfffc323a7bb88ec"
 metafile = true
 
 [[files]]
@@ -1548,6 +1553,11 @@ metafile = true
 [[files]]
 file = "mods/tetras-delight.pw.toml"
 hash = "07c4fff4a24c28c775d004af359483468ff1046189c357b52e63f4fc61be1abd"
+metafile = true
+
+[[files]]
+file = "mods/tiny-skeletons.pw.toml"
+hash = "59afa0b70a3b3513691a15f288f964fed351f64458d46df2649a64f34abfd1d4"
 metafile = true
 
 [[files]]

@@ -14,5 +14,5 @@ project-id = 361579
 
 [option]
 optional = true
-default = false
+default = true
 description = "Performance profiling for debugging"
