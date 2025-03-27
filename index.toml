@@ -98,7 +98,7 @@ hash = "66a151dbf2123ba09e0ec7c3aade37066dc98c153b692b20df7844c5a44c60b3"
 
 [[files]]
 file = "config/bclib/client.json"
-hash = "411b3a2b814e30adfff46ba7c0e688c554028fd9f5887514b29eda9807399fd1"
+hash = "a6cc168f9d542589faa7d0f00e825c479d7d391fdd9edea6a12bb755db39a3f6"
 
 [[files]]
 file = "config/bclib/generator.json"
@@ -118,7 +118,7 @@ hash = "fd9c6e1ea0de05c223016c8885ddd84370c325328387f560154b8860db174b2d"
 
 [[files]]
 file = "config/beansbackpacks-common.json5"
-hash = "fd97ae1e88af9c1994f1f86fd9cc68be41c73cdfc5b03910ccbfc7983c987c6f"
+hash = "f297b99438e6b3c4965a30caad1b1878d8b022ffc5df19da41153ba17493eb6b"
 
 [[files]]
 file = "config/betterend/blocks.json"

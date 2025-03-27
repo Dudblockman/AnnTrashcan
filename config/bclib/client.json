@@ -19,8 +19,8 @@
     "debugHashes [default: false]": false
   },
   "rendering": {
-    "customFogRendering [default: true]": true,
-    "netherThickFog [default: true]": true,
+    "customFogRendering [default: true]": false,
+    "netherThickFog [default: true]": false,
     "FogDensity [default: 1.0]": 1.0
   },
   "infos": {
