@@ -119,7 +119,7 @@
 
 ["Experimental Features"]
 	#Should experimental features be enabled? (Default false)
-	experimental_features_enabled = false
+	experimental_features_enabled = true
 
 ["Sculk Raid Variables"]
 	#Should sculk raids be enabled? (Default true)

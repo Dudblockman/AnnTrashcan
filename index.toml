@@ -754,7 +754,7 @@ hash = "51ec566894d19ec1be3571a6491c132cd930e380b20e6489b6750b203c61567b"
 
 [[files]]
 file = "config/sculkhorde_config.toml"
-hash = "5330aadcf2f6e4d7501ab8719aaa377fdf7ff7e2784e463be5a64dc18660dd40"
+hash = "0cf586d3644aba6146e2d6362cc52d5932fca0fc420b192307417d49e88e1996"
 
 [[files]]
 file = "config/spark/activity.json"
@@ -1248,6 +1248,11 @@ hash = "c2fa5c58e831a56640d574d8cc482b337f7617e102b1e089c74e1dc16b2f9690"
 metafile = true
 
 [[files]]
+file = "mods/harder-farther.pw.toml"
+hash = "986645a75c90bbfb3201c15eafc5de713600345eaae077a0409fa5deb4f34f24"
+metafile = true
+
+[[files]]
 file = "mods/hex-casting.pw.toml"
 hash = "59a167a2e05a518d25d1e6f1b4789bad66a47e7fa2909817c5ec433c7aa46661"
 metafile = true
@@ -1483,7 +1488,7 @@ metafile = true
 
 [[files]]
 file = "mods/sculk-horde.pw.toml"
-hash = "64e2bc7cb8340be30bd2e6e7ed4d556600bd66e1bb6b3f808bc4355cd5c76cba"
+hash = "01716b64bd77051764ebd9470bd87ec9204e9573504a64ff5e8539ab825fdb07"
 metafile = true
 
 [[files]]
@@ -1567,7 +1572,7 @@ metafile = true
 
 [[files]]
 file = "mods/via-romana.pw.toml"
-hash = "8434ce3c7367107fd10487cc11efd28138ccfdbd2bf69bd4c165c2a637bc9aa0"
+hash = "52fa29d8829aed0bfa9942a587a31412384fe7f8739cfc05ccabd3aac23d25a0"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Harder Farther"
+filename = "harderfarther-1.20-46.29.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "12fbd1a5dcc87dba75356b1e3cba70874935c80b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4640742
+project-id = 409369
