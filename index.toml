@@ -964,7 +964,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockui.pw.toml"
-hash = "695b5ebbcb9a402cf9200de74984e419b0d26ae860c6b846f58e8a1675529781"
+hash = "b66321dcd74400f64d539bde020f14335d77d04012b2f991b0cfb5bc800ba9a7"
 metafile = true
 
 [[files]]
@@ -979,7 +979,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania.pw.toml"
-hash = "f566e3e2d966e007b286644596f860007b2c51d345683d9c6840563b9af31752"
+hash = "8a4b1bb77de5a88e4cc3815a75c447a3f9d08412f2814261452b27bc47daa011"
 metafile = true
 
 [[files]]
@@ -1109,7 +1109,7 @@ metafile = true
 
 [[files]]
 file = "mods/doggy-talents-next.pw.toml"
-hash = "398c031cb7cfa52645958c1a91939f9578137ea32a498ae7eebc22d22e639a2e"
+hash = "73319fabf14e0bb9f7c7fbec66e8bc9c4c96b6d21ac0d158c3eac2e836e42efb"
 metafile = true
 
 [[files]]
@@ -1169,7 +1169,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "d36d70b9f8c9fee99753d7f9ef79a715b57880940e89a81fef119910cb7d123c"
+hash = "b0255e234468055440b05f2160e41f8cd75f61f91942f9d91549654f98899911"
 metafile = true
 
 [[files]]
@@ -1249,7 +1249,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "44d0d42f597e0490b9158777068fd1faa77018ce524138e5937d7415763a3e95"
+hash = "7685b99141b8493ca796b816151320f6a46fa3a6fc2ff8c749ecc8cf32cb9df3"
 metafile = true
 
 [[files]]
@@ -1318,7 +1318,7 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-api.pw.toml"
-hash = "955d5428a8febaeff641633cd388ef0fb3b775e5bfe000c847c9a58f5d381d6d"
+hash = "73f0fb77d1827b8571a4a17f39920b813c356fe2c8647ae1195de50792e5bc7c"
 metafile = true
 
 [[files]]
@@ -1378,7 +1378,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "1ef63d97de11e605fb8cb4d6bf892eb6af5d2df2a4d8bedb0ad429f74bda84da"
+hash = "d3a41221c7e565359880bdac906d39af6ebbdc41edde8050519b39b5a4f8ad39"
 metafile = true
 
 [[files]]
@@ -1543,7 +1543,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "f5f862ea5c773bddbf42174f8ebfa3b8d7d596d78a0ee54c50c9cb9634bf91cf"
+hash = "65f306d495b944b81049dbe2d339060f7bc62106e750242fa19a34ab5ebc4ac0"
 metafile = true
 
 [[files]]
@@ -1627,7 +1627,7 @@ metafile = true
 
 [[files]]
 file = "mods/zeta.pw.toml"
-hash = "586fcd360558e92a194059b46509420f57f1baa3ef1a1bee073a862a38b3bde7"
+hash = "98a5f14605e51677639c024541e9453a95911cbc21edfe94057b0ac4a8073ddd"
 metafile = true
 
 [[files]]
