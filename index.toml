@@ -282,7 +282,7 @@ hash = "922d6ea872ad4087927cfc62351886ad6b7b74550f4e6cb213c9fd0f3408f984"
 
 [[files]]
 file = "config/domestication-innovation.toml"
-hash = "8df5ed720b6f4e65dde564ca501ac9a4ba095684361ea90aff6110a905561d00"
+hash = "5c1784df7243ef22d12a4d9148ebb7c6d64dddade5d46688be7801cd05be3a9d"
 
 [[files]]
 file = "config/easyanvils-client.toml"
