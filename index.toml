@@ -1382,6 +1382,16 @@ hash = "1ef63d97de11e605fb8cb4d6bf892eb6af5d2df2a4d8bedb0ad429f74bda84da"
 metafile = true
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "f56fcec37f225c9b8a43e46c3b42c600f7bf4ad78e2ba745c6e8842b5f4f012c"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "456ad967ee762995622df5bb58aac50f69e7101dfd7001e29f5675c0289a5afe"
+metafile = true
+
+[[files]]
 file = "mods/moreiotas.pw.toml"
 hash = "887f7fc2abacfa12b1ee393c759b71d56c97b91a965c01f9d23c6115a45d5acf"
 metafile = true
