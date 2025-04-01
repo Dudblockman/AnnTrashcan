@@ -1004,7 +1004,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
+hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
 
 [[files]]
@@ -1578,7 +1578,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "2a64f226b3a2a4cb7c7ea3efc577ba6017691542c360c8eaf41b89e1fa917cc1"
+hash = "9628b699067b16a6a431c27854c36e230dbf825dc5c5dddf72d3d4d1c952aa6a"
 metafile = true
 
 [[files]]
