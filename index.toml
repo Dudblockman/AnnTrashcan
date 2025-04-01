@@ -893,16 +893,6 @@ file = "config/zeta-common.toml"
 hash = "ffcafa5895ffcfe421140eb9905d1d2466b29d0a4bb17d2f7c50023d733c634c"
 
 [[files]]
-file = "mods/accessories-cc-layer.pw.toml"
-hash = "2e31627453295ef5d88ada8a3d294cd04eec3ef61dfd9f8abeee8d837f4b9dc5"
-metafile = true
-
-[[files]]
-file = "mods/accessories.pw.toml"
-hash = "a29cc0d032b62f5cd6be50f9536554fdfd8ddb2f2256764c00910939b3476680"
-metafile = true
-
-[[files]]
 file = "mods/amendments.pw.toml"
 hash = "bcc1a00d272a45143109d2808452a9d24bbc886fe199488fb4b7819a79454d17"
 metafile = true
@@ -1014,7 +1004,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
+hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
 
 [[files]]
@@ -1095,6 +1085,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "9fd99767788ac2057a81fc222cfc5d21930ea23698be8fad70899f21c6c54d4e"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "42a7ffa2efa0ccf9260b887714b5da8e17cc7a9a59d02aaa8061bd5bf0ab0612"
 metafile = true
 
 [[files]]
@@ -1508,7 +1503,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "dd105e501832dcd4e443015af266973c58586553331512a6c171d865dd36c3bc"
+hash = "2a0cb33fb2c23f157e0295ae75f48c7531441e451187cc9fedf5054d728be929"
 metafile = true
 
 [[files]]
@@ -1548,7 +1543,7 @@ metafile = true
 
 [[files]]
 file = "mods/sculk-horde.pw.toml"
-hash = "b451dba109620be677e789d17bccc0a32ac5d600e573f01e9b084674e6894c1c"
+hash = "1d666574dad0acc8a026fdd88ca4212da3cd54c1cde33a65b7843ff4a7e3a088"
 metafile = true
 
 [[files]]
@@ -1583,7 +1578,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "04ef40f47440fb3f76353df141db3d0cc428894f44f0bae7068ea3f3435fbe5a"
+hash = "2a64f226b3a2a4cb7c7ea3efc577ba6017691542c360c8eaf41b89e1fa917cc1"
 metafile = true
 
 [[files]]

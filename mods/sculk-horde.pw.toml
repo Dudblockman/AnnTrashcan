@@ -1,13 +1,13 @@
 name = "Sculk Horde"
-filename = "sculkhorde-1.20.1-0.9.30.jar"
+filename = "sculkhorde-1.20.1-0.9.31.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "75ea7e70984878fa9ee72a0c20d63d5df7956ac7"
+hash = "dea30ebb08fc2c5cdc2e57f40dff6af7e43072e5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6351968
+file-id = 6373253
 project-id = 501766
