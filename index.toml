@@ -233,10 +233,6 @@ file = "config/connector.json"
 hash = "060e296a5fddce603e50034e3cdb6059c3a0e122d0aae3d85a0523341c82ea22"
 
 [[files]]
-file = "config/corrosive_sculk.toml"
-hash = "1be475ea5f80b651849565d83e5161ae6587e75a505c96fac10f111bcc0b44a0"
-
-[[files]]
 file = "config/crackerslib-client.toml"
 hash = "58836a63ee557974d5cde292d06830ecf5a39f01c02dd97b55d05a53211cb415"
 
@@ -271,10 +267,6 @@ hash = "ebc96c813d601e9c61b6929a8490e71fa990dc64918c19e1f9937bb275510abc"
 [[files]]
 file = "config/curios-common.toml"
 hash = "5fe808869d46a4b80e1191fbe40f40a4d63987beda0eaeb2d89b909a990ea2ea"
-
-[[files]]
-file = "config/dimdoors-config.json5"
-hash = "e777154064af577e3ba3d9d1e6a810e4ef96b4f273cf84d13781f1f3f736bd0b"
 
 [[files]]
 file = "config/doggytalents-client.toml"
@@ -391,38 +383,6 @@ hash = "0b1b3c45343435184c9dde3149b38afcdb97953e287686ecda54385f53ebcddc"
 [[files]]
 file = "config/forgeendertech-common.toml"
 hash = "1bd283bb6d79f9f552d19990857bcd6741ac247af768af200cd08a1b68432fbc"
-
-[[files]]
-file = "config/forgeendertech/Biomes/minecraft$mangrove_swamp.cfg"
-hash = "974e60dd6c9023f0a8786334098954c68b4a4aafd3c0ecc6834c79cfeecf0b64"
-
-[[files]]
-file = "config/forgeendertech/Biomes/minecraft$windswept_savanna.cfg"
-hash = "05dfce5501ac5491e88ee6db91b207382269721a0f8e30bc03b1ba9fb2bc8581"
-
-[[files]]
-file = "config/forgeendertech/Biomes/terralith$fractured_savanna.cfg"
-hash = "b8dda6bba2c34190d3c77984600704ad6cad6086e829d9ded18a3eb625180b64"
-
-[[files]]
-file = "config/forgeendertech/Biomes/terralith$ice_marsh.cfg"
-hash = "dd396c8ae847e8ab1421473eb5484e7ea669df6052631c5ac4da14306716702b"
-
-[[files]]
-file = "config/forgeendertech/Biomes/terralith$skylands_winter.cfg"
-hash = "700ae52f9ee4dce787b3a28b9d230f317dafde00910293f5cd9e80874d9fac2d"
-
-[[files]]
-file = "config/forgeendertech/Biomes/terralith$snowy_maple_forest.cfg"
-hash = "7384a5ef738060a79dd1ba3ad6d130a45630ca1cba72e64b6c7e10ed72f2bc3f"
-
-[[files]]
-file = "config/forgeendertech/Wind.cfg"
-hash = "4330efdf92dab914dab79d38642510347977d9b4ea918c49e03761a37c15b247"
-
-[[files]]
-file = "config/forgeendertech/cached.dat"
-hash = "dda5670a52b3c554d5ec68e61832cc304a4ebd87f13b22c27d964118fd3617f2"
 
 [[files]]
 file = "config/fzzy_config/keybinds.toml"
@@ -767,14 +727,6 @@ hash = "2fcaf15b765fd248ba8b22896e538f2d09fa52ad74994357a935c11693635da5"
 [[files]]
 file = "config/spark/config.json"
 hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
-
-[[files]]
-file = "config/sporeconfig.toml"
-hash = "a5d5cfa9ba194f1fe264c94e691eec5c3279e9d116dc91a7db220a0acc5913ce"
-
-[[files]]
-file = "config/sporedata.toml"
-hash = "bae30b96bacd9cfa70d71e1b513694a6b4bfc3049bfcb678fdd865af20731a01"
 
 [[files]]
 file = "config/structure_gel-client.toml"
