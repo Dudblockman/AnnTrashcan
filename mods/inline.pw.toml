@@ -1,13 +1,13 @@
 name = "Inline"
-filename = "inline-forge-1.20.1-1.1.0.jar"
+filename = "inline-forge-1.20.1-1.1.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "aa950eaee6f6ab1cd1e7492429e710ed51ac81d6"
+hash = "e973c1484c39ee2c3db8b4df2ac4b2ea37686144"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6314451
+file-id = 6376094
 project-id = 971167
