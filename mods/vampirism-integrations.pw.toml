@@ -3,11 +3,11 @@ filename = "vampirism_integrations-1.20.1-1.8.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ygTFuViO/versions/FCWlXprr/vampirism_integrations-1.20.1-1.8.0.jar"
-hash-format = "sha512"
-hash = "de4f68152894c9281ae73b23ceefe82d6a738718f04f84697532ba25cb59730cfa115c957a91f4229b5a0eb1fa5425b5c49fe6a25f4f3d7f256fb051d17993b8"
+hash-format = "sha1"
+hash = "c22c5f7a27e67870f43bfcfce662cac277fe3289"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "ygTFuViO"
-version = "FCWlXprr"
+[update.curseforge]
+file-id = 4968802
+project-id = 282433
