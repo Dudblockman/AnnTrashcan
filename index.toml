@@ -1342,6 +1342,11 @@ hash = "d3a41221c7e565359880bdac906d39af6ebbdc41edde8050519b39b5a4f8ad39"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-comes-alive-reborn.pw.toml"
+hash = "b178d1d5ea81149a287303b595405af33d0ec73047bd9a3ff79ca5715c8d4578"
+metafile = true
+
+[[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "f56fcec37f225c9b8a43e46c3b42c600f7bf4ad78e2ba745c6e8842b5f4f012c"
 metafile = true
@@ -1563,6 +1568,16 @@ metafile = true
 [[files]]
 file = "mods/unloaded-activity.pw.toml"
 hash = "7f30375fcb89c203c5425d07e088c0876a7973c52062e807362a1391c0bb7b94"
+metafile = true
+
+[[files]]
+file = "mods/vampirism-integrations.pw.toml"
+hash = "7975a423fee3c103ff44069da15c59aeb391d0cded8e91e0b1ee7da7a1c5a3d2"
+metafile = true
+
+[[files]]
+file = "mods/vampirism.pw.toml"
+hash = "83182dcb7e4463e5e2ceefa544e3a6d0b427e4637d5bef613a632bed39731c0d"
 metafile = true
 
 [[files]]
