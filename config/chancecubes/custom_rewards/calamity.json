@@ -1,6 +1,6 @@
 {
   "wither_storm":{
-    "chance":-69,
+    "chance":-79,
     "Message":[
       {
         "message": "A calamity is about to unfold!", 
@@ -23,7 +23,7 @@
 		]
   },
   "sculk_horde":{
-    "chance":-69,
+    "chance":-79,
     "Message":[
       {
         "message": "A calamity is about to unfold!", 
@@ -46,7 +46,7 @@
 		]
   },
   "false_alarm":{
-    "chance":-69,
+    "chance":-79,
     "Message":[
       {
         "message": "A calamity is about to unfold!", 
