@@ -978,6 +978,11 @@ hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
 
 [[files]]
+file = "mods/cold-sweat.pw.toml"
+hash = "17cea9c923ee322ea075ca3cac0e705745776013a3626aa80280df5574a2dd55"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "db01ff332b926267e5343601473582e51cddd1dff7c0bfef0809dc9802c07480"
 metafile = true
