@@ -1591,11 +1591,6 @@ hash = "a329e20cdf225a125de0c8343e3c9fbdb1569829e58e0a208e3c274c04d98535"
 metafile = true
 
 [[files]]
-file = "mods/vampirism.pw.toml"
-hash = "83182dcb7e4463e5e2ceefa544e3a6d0b427e4637d5bef613a632bed39731c0d"
-metafile = true
-
-[[files]]
 file = "mods/via-romana.pw.toml"
 hash = "52fa29d8829aed0bfa9942a587a31412384fe7f8739cfc05ccabd3aac23d25a0"
 metafile = true
