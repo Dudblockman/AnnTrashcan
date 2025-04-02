@@ -1126,16 +1126,6 @@ hash = "6536d3a02319fb3500cd412ddb715f7be2818aa60f3b3dacd2658a0d85e31d15"
 metafile = true
 
 [[files]]
-file = "mods/dynamictrees.pw.toml"
-hash = "055975e058c3e735f2aabf7fa7785e5bb0b81d8759580528949aac623b720578"
-metafile = true
-
-[[files]]
-file = "mods/dynamictreesplus.pw.toml"
-hash = "f7ed4a228e35c8a6d95d0cd56376d6bb55e116264db3acd8d3b978c7ae3a306f"
-metafile = true
-
-[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "3b17a2980b74426f94633164b0c068f8afa025eabee0e0bd1a32c5965361c028"
 metafile = true
@@ -1273,11 +1263,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "f57b760f1db9b4033c89bd46a296b48e0d6c547de4b60e724e799608dab41bef"
-metafile = true
-
-[[files]]
-file = "mods/glitchcore.pw.toml"
-hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
 metafile = true
 
 [[files]]
@@ -1485,18 +1470,8 @@ hash = "1fedfa703c512feb6aaf4c5e83c0fd377e70ea1b39493eefcae468dff8fa632e"
 metafile = true
 
 [[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
-metafile = true
-
-[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "5ebfccec321146cf5c65f00b6cb98907930f2b927131d25b727f4c97fd34025e"
-metafile = true
-
-[[files]]
-file = "mods/passable-leaves.pw.toml"
-hash = "8df332e36c155fe8691e427031b4b1fa6b400a73c02bcca32d234dec22c7b2bc"
 metafile = true
 
 [[files]]
@@ -1567,11 +1542,6 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "bbed5792ab8d818d5cf5f25387427e6fd1999376d330f7cd0a6ff55554073adb"
-metafile = true
-
-[[files]]
-file = "mods/serene-seasons.pw.toml"
-hash = "eab19cc3123cd239d9fdb7e8902678a21471925046b2ce939b42d51d69b8b920"
 metafile = true
 
 [[files]]
