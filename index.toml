@@ -201,6 +201,10 @@ file = "config/chancecubes/custom_rewards/CustomSounds-Resourcepack.zip"
 hash = "e37f58cd1f75ec5ce8595efc451acc17d857e430bc62b7123335241a20d33481"
 
 [[files]]
+file = "config/chancecubes/custom_rewards/calamity.json"
+hash = "6b78af6daa33f95be0f49194595df55ec88ac98ba2975a266273065216dad5a1"
+
+[[files]]
 file = "config/chancecubes/custom_rewards/sounds/sounds.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
@@ -622,7 +626,7 @@ hash = "480697ae74306cdcd17eed12a34795b7856f00d183d06ce69fd0fbf046c54c2e"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "fedbbde3fe40c39afe3628c07d6ca35c40c8626a715d47a6048c34748b44f606"
+hash = "8d54d1b96432777b1bb232605ab13d5dd963e5603b21a00192f59d3f31550aec"
 
 [[files]]
 file = "config/rehooked-client.toml"
@@ -891,6 +895,15 @@ hash = "fe0bc8c3a04c4f9c39caea44a81d725dbdc02db561b52d6681c10cb34063174a"
 [[files]]
 file = "config/zeta-common.toml"
 hash = "ffcafa5895ffcfe421140eb9905d1d2466b29d0a4bb17d2f7c50023d733c634c"
+
+[[files]]
+file = "global_packs/required_data/bundle.zip"
+hash = "26dfaedb225392c7ba8d77a0fd5a88ebe2aefac31f0648a653d84242efdd9427"
+
+[[files]]
+file = "global_packs/required_resources/fresh-animations.pw.toml"
+hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
+metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
@@ -1270,6 +1283,11 @@ metafile = true
 [[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "1216c309abd2dfb6b0b0d7b7671ddeafef0737f95006896286ac541307275f35"
 metafile = true
 
 [[files]]
@@ -1663,11 +1681,6 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "bdc96c6606e9df3a56df88ab0b44b942df96810cd7b615600f8f1cdc303cf439"
-
-[[files]]
-file = "resourcepacks/fresh-animations.pw.toml"
-hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
-metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

@@ -1,0 +1,65 @@
+{
+  "wither_storm":{
+    "chance":-59,
+    "Message":[
+      {
+        "message": "A calamity is about to unfold!", 
+        "delay": 20,
+        "serverWide":true
+      },
+      {
+        "message": "Fleeing is advised", 
+        "delay": 100
+      }
+    ],
+    "Entity":[
+      {
+        "entity": {"id":"witherstormmod:wither_storm", "Invul":500},
+        "delay": 150
+      }
+    ],
+    "Sound":[
+			{"sound":"chancecubes:giant_cube_spawn", "volume":1.0, "pitch":0.8, "serverWide": true, "delay": 20}
+		]
+  },
+  "sculk_horde":{
+    "chance":-59,
+    "Message":[
+      {
+        "message": "A calamity is about to unfold!", 
+        "delay": 20,
+        "serverWide":true
+      },
+      {
+        "message": "The horde quickens", 
+        "delay": 100
+      }
+    ],
+    "Command":[
+      {
+        "command": "sculkhorde gravemind state advance",
+        "delay": 300
+      }
+    ],
+    "Sound":[
+			{"sound":"chancecubes:giant_cube_spawn", "volume":1.0, "pitch":0.8, "serverWide": true, "delay": 20}
+		]
+  },
+  "false_alarm":{
+    "chance":-59,
+    "Message":[
+      {
+        "message": "A calamity is about to unfold!", 
+        "delay": 20,
+        "serverWide":true
+      },
+      {
+        "message": "Seems it was a false alarm.", 
+        "delay": 100
+      }
+    ],
+    "Sound":[
+			{"sound":"chancecubes:giant_cube_spawn", "volume":1.0, "pitch":0.8, "serverWide": true, "delay": 20}
+		]
+  }
+}
