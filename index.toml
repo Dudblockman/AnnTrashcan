@@ -1472,6 +1472,11 @@ hash = "b5ea11a7331ba6b6237fdc3c9dc07a172e064dcec56fa5824aee616de8bc827c"
 metafile = true
 
 [[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "cc64ca541c4710726dc3fa4b283b1260cfb2d3ff8d1784f80e0180d248c35688"
+metafile = true
+
+[[files]]
 file = "mods/relics-mod.pw.toml"
 hash = "df0cc833f2c0c5548bd6752434e3cd3a944b7115b33d61c0bb2625a4c8b9b1af"
 metafile = true
@@ -1524,6 +1529,11 @@ metafile = true
 [[files]]
 file = "mods/suppressopengl1280-1.2.2-1041fork.jar"
 hash = "09a91afa1236ec77436065176ed6a2c87b1993b6859c01919fd24895d66eeb8d"
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
+metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
