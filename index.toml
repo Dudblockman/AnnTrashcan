@@ -1051,11 +1051,6 @@ hash = "8e43ddf9c181f77fa9befb1cf300e348206cf297e21d395276e4c1169d1c8ac3"
 metafile = true
 
 [[files]]
-file = "mods/corrosive-sculk.pw.toml"
-hash = "ec8bb0a98e5957e79cd7e935a4627cbbc6f5e15bc36887c7270e2ca552430336"
-metafile = true
-
-[[files]]
 file = "mods/crackers-wither-storm-mod-v-sides-soundtrack.pw.toml"
 hash = "c9211dcfc7fef0f73c3c562fd53f7ef5a80b5fd378eb9be020918e06b803dfdf"
 metafile = true
