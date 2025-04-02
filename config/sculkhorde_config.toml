@@ -85,7 +85,7 @@
 	#Range: 0 ~ 100
 	purifier_range = 48
 	#What dropped items should cursors eat? This prevents lag and boosts their lifespan.
-	items_infection_cursors_can_eat = ["minecraft:wheat_seeds", "minecraft:bamboo", "minecraft:stick", "minecraft:poppy", "minecraft:dandelion", "minecraft:blue_orchid", "minecraft:allium", "minecraft:azure_bluet", "minecraft:red_tulip", "minecraft:orange_tulip", "minecraft:white_tulip", "minecraft:pink_tulip", "minecraft:oxeye_daisy", "minecraft:cornflower", "minecraft:lily_of_the_valley", "minecraft:sunflower", "minecraft:lilac", "minecraft:rose_bush", "minecraft:peony"]
+	items_infection_cursors_can_eat = ["minecraft:wheat_seeds", "minecraft:bamboo", "minecraft:stick", "minecraft:poppy", "minecraft:dandelion", "minecraft:blue_orchid", "minecraft:allium", "minecraft:azure_bluet", "minecraft:red_tulip", "minecraft:orange_tulip", "minecraft:white_tulip", "minecraft:pink_tulip", "minecraft:oxeye_daisy", "minecraft:cornflower", "minecraft:lily_of_the_valley", "minecraft:sunflower", "minecraft:lilac", "minecraft:rose_bush", "minecraft:peony","doggytalents:rice_grains"]
 	#Add blocks to this list to make them infestable. I.E. minecraft:dirt. Be careful what you put in here, this can potentially lead to issues. This will not work with blocks that are air, have a block entity, are already considered an infested block, or have the not infestable tag.
 	make_block_infestable = [""]
 
@@ -119,7 +119,7 @@
 
 ["Experimental Features"]
 	#Should experimental features be enabled? (Default false)
-	experimental_features_enabled = true
+	experimental_features_enabled = false
 
 ["Sculk Raid Variables"]
 	#Should sculk raids be enabled? (Default true)

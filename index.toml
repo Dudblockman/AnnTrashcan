@@ -718,7 +718,7 @@ hash = "51ec566894d19ec1be3571a6491c132cd930e380b20e6489b6750b203c61567b"
 
 [[files]]
 file = "config/sculkhorde_config.toml"
-hash = "0cf586d3644aba6146e2d6362cc52d5932fca0fc420b192307417d49e88e1996"
+hash = "ce1c03f9c1ca73452bf6324b476472d7782801fe061253f98f1863232b5b0a59"
 
 [[files]]
 file = "config/spark/activity.json"
