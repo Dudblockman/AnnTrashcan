@@ -1,13 +1,13 @@
 name = "Beans Backpacks (Legacy)"
-filename = "BeansBackpacks-forge-1.20.1-2.0.jar"
+filename = "BeansBackpacks-forge-1.20.1-2.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e5c6a5cfa3d70a214d79244cec28a83a546e441d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/kYt0MSgT/versions/r9Lq0Zp7/BeansBackpacks-forge-1.20.1-2.0.2.jar"
+hash-format = "sha512"
+hash = "9db31d71b1fa724e0758d22b0ca4166640459b00727a2d8992efc0963243abdd75a0a12517cb2956b710450a3c5836796bc8cb1db6965d722a56aa76a21a3a9a"
 
 [update]
-[update.curseforge]
-file-id = 5368249
-project-id = 946775
+[update.modrinth]
+mod-id = "kYt0MSgT"
+version = "r9Lq0Zp7"
