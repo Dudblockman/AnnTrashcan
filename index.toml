@@ -1332,6 +1332,11 @@ hash = "a4ff567d52fe55984cc0cb93430a4c8f01dc00b14fbd6e25a077dbd179f534fb"
 metafile = true
 
 [[files]]
+file = "mods/mahou-tsukai.pw.toml"
+hash = "c01e4f873d0c5deb69686ad4583b8c052408256f3641a4d6c277b865fc341634"
+metafile = true
+
+[[files]]
 file = "mods/map-atlases-forge.pw.toml"
 hash = "854c34183553ce0af5beed4d4583339398b4904ec8144a51d4c75e07c6ae432b"
 metafile = true
@@ -1603,6 +1608,11 @@ metafile = true
 [[files]]
 file = "mods/villager-in-a-bucket.pw.toml"
 hash = "bb0dcf4967aa5e21d91d88db2829cf50d69521d9f4af2fafa94a5b9d1ef15d90"
+metafile = true
+
+[[files]]
+file = "mods/world-preview.pw.toml"
+hash = "4cbaef598ee1cb241ea0efe33eb3947a503f25409952e860ec69833692c7822d"
 metafile = true
 
 [[files]]
