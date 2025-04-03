@@ -1008,6 +1008,10 @@ hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
 metafile = true
 
 [[files]]
+file = "mods/copycats-2.2.2-mc.1.20.1-forge-build.241.jar"
+hash = "6ac9e61b9cbcf2ee027ae9faa2ba130d02ef0ab1c2d7bcde11fff20264b21a1e"
+
+[[files]]
 file = "mods/corail-tombstone.pw.toml"
 hash = "8e43ddf9c181f77fa9befb1cf300e348206cf297e21d395276e4c1169d1c8ac3"
 metafile = true
