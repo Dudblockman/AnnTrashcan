@@ -1427,6 +1427,11 @@ hash = "0dd7153cdc0d4360e141c3880d9736ca6dd4641448c0ffa71082236b91cd2fc9"
 metafile = true
 
 [[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "f16fd7fba2242ba733897eeaaa09cb27e01a438d240e175a26c956319f8a1561"
+metafile = true
+
+[[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "320c4d3a50b1f2f45d64d2f88c8c16473bc85b95d67e54ff93205ac9d2ead3cf"
 metafile = true
@@ -1608,11 +1613,6 @@ metafile = true
 [[files]]
 file = "mods/villager-in-a-bucket.pw.toml"
 hash = "bb0dcf4967aa5e21d91d88db2829cf50d69521d9f4af2fafa94a5b9d1ef15d90"
-metafile = true
-
-[[files]]
-file = "mods/world-preview.pw.toml"
-hash = "4cbaef598ee1cb241ea0efe33eb3947a503f25409952e860ec69833692c7822d"
 metafile = true
 
 [[files]]
