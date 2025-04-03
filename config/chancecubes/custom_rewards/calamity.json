@@ -31,14 +31,14 @@
         "serverWide":true
       },
       {
-        "message": "The horde quickens", 
+        "message": "Something below stirs", 
         "delay": 100
       }
     ],
     "Command":[
       {
-        "command": "sculkhorde gravemind state advance",
-        "delay": 300
+        "command": "sculkhorde config trigger_automatically trigger_ancient_node_automatically true",
+        "delay": 100
       }
     ],
     "Sound":[

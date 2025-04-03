@@ -202,7 +202,7 @@ hash = "e37f58cd1f75ec5ce8595efc451acc17d857e430bc62b7123335241a20d33481"
 
 [[files]]
 file = "config/chancecubes/custom_rewards/calamity.json"
-hash = "b48a9f06e4cd04061a1891dc54480cbb3c1ce531f7a896aa1128086069db0203"
+hash = "1ae1744a7af088c2dab3cb78f51d53951746d067eca29636bdb8572d20309338"
 
 [[files]]
 file = "config/chancecubes/custom_rewards/sounds/sounds.json"
