@@ -1,6 +1,6 @@
 {
   "wither_storm":{
-    "chance":-79,
+    "chance":-84,
     "Message":[
       {
         "message": "A calamity is about to unfold!", 
@@ -23,7 +23,7 @@
 		]
   },
   "sculk_horde":{
-    "chance":-79,
+    "chance":-84,
     "Message":[
       {
         "message": "A calamity is about to unfold!", 
@@ -38,7 +38,7 @@
     "Command":[
       {
         "command": "sculkhorde config trigger_automatically trigger_ancient_node_automatically true",
-        "delay": 100
+        "delay": 150
       }
     ],
     "Sound":[

@@ -202,7 +202,7 @@ hash = "e37f58cd1f75ec5ce8595efc451acc17d857e430bc62b7123335241a20d33481"
 
 [[files]]
 file = "config/chancecubes/custom_rewards/calamity.json"
-hash = "1ae1744a7af088c2dab3cb78f51d53951746d067eca29636bdb8572d20309338"
+hash = "5a3ade0bda8ba49333a37334dcecf1bdb6bf3c6d3d135ae89fd0f79cc7c46436"
 
 [[files]]
 file = "config/chancecubes/custom_rewards/sounds/sounds.json"
@@ -858,6 +858,36 @@ hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
 metafile = true
 
 [[files]]
+file = "mods/adaptive-performance-tweaks-core.pw.toml"
+hash = "26f3fd1bdaab9f0f5ce3741f1bd70ccac7b7b1ee079f7223b893554d5ebe8940"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-gamerules.pw.toml"
+hash = "8ad5f5817cbe5ca76ba9078902c40d249f1d3a183d9c7b9863e2cd261da9ea41"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-items.pw.toml"
+hash = "bed1b16389b7f88c006a8de3bbba3f736af7c5d6c58219a561c17dab3252b78c"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-player.pw.toml"
+hash = "c09b7f023710dc5fd414a6bc8b86c38ad784f10ba43956d7cfc6d4653d1d8200"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-spawn.pw.toml"
+hash = "b962924ce66ca14ad9869f5c22578c92781c190da6fefb233de3b3de6d2a6375"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks.pw.toml"
+hash = "901b6328e955729a5a9100779dd38c113598e8f1e3c0c65fff72ba5a564b9177"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "bcc1a00d272a45143109d2808452a9d24bbc886fe199488fb4b7819a79454d17"
 metafile = true
@@ -1062,6 +1092,11 @@ hash = "9fd99767788ac2057a81fc222cfc5d21930ea23698be8fad70899f21c6c54d4e"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "42a7ffa2efa0ccf9260b887714b5da8e17cc7a9a59d02aaa8061bd5bf0ab0612"
 metafile = true
@@ -1084,6 +1119,11 @@ metafile = true
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "6536d3a02319fb3500cd412ddb715f7be2818aa60f3b3dacd2658a0d85e31d15"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-view.pw.toml"
+hash = "9503bfd7d59bb3f50232a6c5ea90e5790e178cc96b2463eb3e9775f65d1ef4ea"
 metafile = true
 
 [[files]]
@@ -1184,6 +1224,11 @@ metafile = true
 [[files]]
 file = "mods/fast-leaf-decay.pw.toml"
 hash = "fd5aa059dd7e148e9ce801455b438425c0ad36537ce4b635edeb524900b15284"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
 
 [[files]]
