@@ -1336,6 +1336,11 @@ hash = "641e8cdce2074ed960325fa823365c9832e01c23fa2031273f5701298618db49"
 metafile = true
 
 [[files]]
+file = "mods/immersive-portals-neoforge.pw.toml"
+hash = "8c56189a235a058e9dfd8a1f6ffa449b1cfcdb957f77f07750ee203057025b9a"
+metafile = true
+
+[[files]]
 file = "mods/inline.pw.toml"
 hash = "cc915fa89d08f004a5ae06b3b6e37c10b500e79b0bdf7c9c50452b185d1ef25f"
 metafile = true
