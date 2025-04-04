@@ -362,7 +362,7 @@ hash = "ab93780fbfe30774558ac2ea7cedbc367f08b4d3aae0c300e1931acfba7c00cf"
 
 [[files]]
 file = "config/figura.json"
-hash = "45d1b9d9bf59fbd6a384fe8a7d1db75f7364276e17819f738c670202be5d4fd4"
+hash = "06093d404638e4cd092521f7318057fc098b8550e7c3129f436ac06259cf22e3"
 
 [[files]]
 file = "config/flywheel-client.toml"
