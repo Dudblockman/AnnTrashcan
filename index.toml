@@ -983,6 +983,11 @@ hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
 metafile = true
 
 [[files]]
+file = "mods/canary.pw.toml"
+hash = "14481081a9e233f4ba57df8a77ce028184818143eae1c73b60749ea482c912e9"
+metafile = true
+
+[[files]]
 file = "mods/caupona.pw.toml"
 hash = "df5cfd45d4272d3987079fe336fb9ed1d8b060a713bb253b05b8f1701e6c0262"
 metafile = true
@@ -1408,6 +1413,11 @@ metafile = true
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "f56fcec37f225c9b8a43e46c3b42c600f7bf4ad78e2ba745c6e8842b5f4f012c"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "2e0b93cbe56f0a8645f72f256452ec9261a1d97386dfeb67bac0c1aca830cac8"
 metafile = true
 
 [[files]]
