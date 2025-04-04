@@ -1113,7 +1113,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "5adb206eb795bf8bf8b1d310bb755c84a3140e89b8a0a4a18d435af7e5c81620"
+hash = "78e86b01d4f72cda8d12660151c101b02f0ef1dbcfc5d73f6c8dba10fbd482ee"
 metafile = true
 
 [[files]]
@@ -1582,7 +1582,7 @@ metafile = true
 
 [[files]]
 file = "mods/sculk-horde.pw.toml"
-hash = "aac3537357fe4c1af5f7af85a8285e39df9cea80a2d865a9ddfc598d19282e75"
+hash = "9fb0161b08b2c330fdebd81b918c774f80896282be193f01327419fd3ae400a9"
 metafile = true
 
 [[files]]
