@@ -184,6 +184,9 @@
     "chancecubes:random_explosion": true,
     "chancecubes:beacon_arena": true,
     "chancecubes:world_infection": true,
-    "chancecubes:block_thrower": true
+    "chancecubes:block_thrower": true,
+    "wither_storm": true,
+    "sculk_horde": true,
+    "false_alarm": true
   }
 }
