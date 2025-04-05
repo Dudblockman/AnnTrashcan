@@ -913,6 +913,11 @@ hash = "6d7488c03c6ce1b0f06e030bb90094d3b029ccfb01c20de674488710f8ad2891"
 metafile = true
 
 [[files]]
+file = "mods/auto-reauth.pw.toml"
+hash = "8c677e681282f62dc0da555146cccb2fc4e6d59516a48f8dbd6da90dc3d8e596"
+metafile = true
+
+[[files]]
 file = "mods/bclib.pw.toml"
 hash = "0c6982d793283b27ef35fdc3b57b7b9554fbc162c03ac7431ebbee9b1d5b241c"
 metafile = true
