@@ -1,6 +1,7 @@
 name = "Beans Backpacks (Legacy)"
 filename = "BeansBackpacks-forge-1.20.1-2.0.2.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/kYt0MSgT/versions/r9Lq0Zp7/BeansBackpacks-forge-1.20.1-2.0.2.jar"

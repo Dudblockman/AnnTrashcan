@@ -1,13 +1,13 @@
 name = "Villager In A Bucket"
-filename = "villagerinabucket-1.20.1-1.4.1.jar"
+filename = "villagerinabucket-1.20.1-1.4.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "062502ffb280dffc83a2fd6ad941ead02376b637"
+hash = "8f2214735d12ce5775466678fed42d3ccffe7a70"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6088607
+file-id = 6383389
 project-id = 956231
