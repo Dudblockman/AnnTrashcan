@@ -1680,16 +1680,6 @@ hash = "7f30375fcb89c203c5425d07e088c0876a7973c52062e807362a1391c0bb7b94"
 metafile = true
 
 [[files]]
-file = "mods/vampirism-become-a-vampire.pw.toml"
-hash = "2e1fecf7bfd784b606f8525192de50dfb7db993b938e0911621b6c07a65ae6dc"
-metafile = true
-
-[[files]]
-file = "mods/vampirism-integrations.pw.toml"
-hash = "a329e20cdf225a125de0c8343e3c9fbdb1569829e58e0a208e3c274c04d98535"
-metafile = true
-
-[[files]]
 file = "mods/via-romana.pw.toml"
 hash = "52fa29d8829aed0bfa9942a587a31412384fe7f8739cfc05ccabd3aac23d25a0"
 metafile = true
