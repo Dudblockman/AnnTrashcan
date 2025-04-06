@@ -837,6 +837,10 @@ file = "config/quark-common.toml"
 hash = "8d54d1b96432777b1bb232605ab13d5dd963e5603b21a00192f59d3f31550aec"
 
 [[files]]
+file = "config/recipeessentials.json"
+hash = "4c9418b330985ebe913236da43dfa461a00519187cfbd04d868a6737b038db4f"
+
+[[files]]
 file = "config/regions_unexplored/ru-common.toml"
 hash = "f172a7acb56bb4a3ce23925f1ef85b6441e47f94956c24e4db4c34bf8366745c"
 
@@ -1874,6 +1878,11 @@ metafile = true
 [[files]]
 file = "mods/rar-compat.pw.toml"
 hash = "b5ea11a7331ba6b6237fdc3c9dc07a172e064dcec56fa5824aee616de8bc827c"
+metafile = true
+
+[[files]]
+file = "mods/recipe-essentials-forge-fabric.pw.toml"
+hash = "346314904e0a035d68514e7d9e332d4a63e288abc7fd7bdfaf6d655c511a5916"
 metafile = true
 
 [[files]]
