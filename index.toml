@@ -686,7 +686,7 @@ hash = "3882ee7db9c01b91aec30b2999425202746bb1f051850b307c1307bc0bfe5db5"
 
 [[files]]
 file = "config/map_atlases-common.toml"
-hash = "7e197229d780dc2f9459d84e925c40f20c7e7d56c44cc1321a865afb8de526f2"
+hash = "1d449fb4a4607bbdac66e24ebed1ca7cd087eb8c3ac8618efe25afb1e35daaef"
 
 [[files]]
 file = "config/mca.json"
@@ -1122,7 +1122,7 @@ hash = "09dbc8c48473b5c75a05418a9ec21ecd4b7371a27386101df746e4a791ac6c98"
 
 [[files]]
 file = "config/via_romana_config.toml"
-hash = "1998abe7d9fca18080a0c456ed4b99224992970147109f16a4ddfb6b306b7fbd"
+hash = "d999f64385067486dbd7975f0c46d720413e231b1318af4ddfaa40dd4c74f109"
 
 [[files]]
 file = "config/villager-in-a-bucket.properties"
@@ -1315,6 +1315,11 @@ metafile = true
 [[files]]
 file = "mods/citadel.pw.toml"
 hash = "ab769d9c60cfba798a0538bad596e374dc9c68a9c59ad83684afc66ce4ebfe7f"
+metafile = true
+
+[[files]]
+file = "mods/clean-swing-through-grass.pw.toml"
+hash = "47fb31c0dd8d57b949af33591d811bad064e29599d5753ea8a6011e0e1498d0c"
 metafile = true
 
 [[files]]
@@ -1574,6 +1579,11 @@ metafile = true
 [[files]]
 file = "mods/framework.pw.toml"
 hash = "2a4f28e582d8bb538efaeb0faa5a8592f44b2e90dd192af58852f45aa7be8be8"
+metafile = true
+
+[[files]]
+file = "mods/ftb-backups-2.pw.toml"
+hash = "b3693e7a5647d4e28fc30ad3e85193c668a98a410dc3f425f19561cfea68957f"
 metafile = true
 
 [[files]]
@@ -1853,6 +1863,11 @@ metafile = true
 [[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
 hash = "db79692898d1ac0d9d8e69716603ab6d5021bfedc12d64eb97529687868fbf0e"
+metafile = true
+
+[[files]]
+file = "mods/polylib.pw.toml"
+hash = "947d5f3b9213360b68e9b65a8d2d5111939e82e248cf61eb02137f119c6eaeb6"
 metafile = true
 
 [[files]]
