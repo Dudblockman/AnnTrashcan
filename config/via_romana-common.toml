@@ -25,7 +25,7 @@
 	#A comma separated list of accepted block IDs for path
 	"Valid Block IDs" = ""
 	#A comma separated list of text that, if a block name or mod name contains that text, will be considered a path block
-	"Valid Block Strings" = ""
+	"Valid Block Strings" = "path, road, bricks"
 	#A comma separated list of accepted block strings for signs
 	"Valid Sign IDs" = "supplementaries:sign_post"
 

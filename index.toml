@@ -1118,11 +1118,11 @@ hash = "7e8dcf732578e08e4f7f84a05896cd9a747ac2cdd2c06f807539f341f775f2a3"
 
 [[files]]
 file = "config/via_romana-common.toml"
-hash = "09dbc8c48473b5c75a05418a9ec21ecd4b7371a27386101df746e4a791ac6c98"
+hash = "4d0c713cc76e70481b4a57aaeead8e8558f693b4d104f938f118fbf81599e4f4"
 
 [[files]]
 file = "config/via_romana_config.toml"
-hash = "d999f64385067486dbd7975f0c46d720413e231b1318af4ddfaa40dd4c74f109"
+hash = "38e342a0367a4b221e21bd2172bf1508c17d4293d71170629dcc97438a2f4b62"
 
 [[files]]
 file = "config/villager-in-a-bucket.properties"
@@ -1188,6 +1188,11 @@ hash = "901b6328e955729a5a9100779dd38c113598e8f1e3c0c65fff72ba5a564b9177"
 metafile = true
 
 [[files]]
+file = "mods/akashic-tome.pw.toml"
+hash = "9d1b15ffa15606c346ad2ed32c349fceac9863ae13b433c2aee7d026c87d4339"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "bcc1a00d272a45143109d2808452a9d24bbc886fe199488fb4b7819a79454d17"
 metafile = true
@@ -1250,6 +1255,11 @@ metafile = true
 [[files]]
 file = "mods/bio-factory.pw.toml"
 hash = "bb1f4a056cc6477388ab58c4d61d3391c7d3e23f03f648e73ffec594ae3dda6e"
+metafile = true
+
+[[files]]
+file = "mods/bioforge.pw.toml"
+hash = "741f7a560162815d76e760c04942d0f2da1a0853ae91ed9c8ed9a40ddabba9da"
 metafile = true
 
 [[files]]

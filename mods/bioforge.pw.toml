@@ -1,0 +1,13 @@
+name = "BioForge"
+filename = "BioForge 1.1.2 1.20.1 Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cc36ef7018ab0507c54f81da36d30e9f842f7e79"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6238638
+project-id = 1155051
