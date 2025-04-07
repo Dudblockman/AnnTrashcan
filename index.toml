@@ -1387,6 +1387,11 @@ hash = "8ce438a9197a0d70908243113e337d84a247b40c35df82d4619aad85147ded7b"
 metafile = true
 
 [[files]]
+file = "mods/create-cold-sweat.pw.toml"
+hash = "af582c195e46742430c413e90c460af5829f25485d2d12b0816d8fefa1cf177e"
+metafile = true
+
+[[files]]
 file = "mods/create-compat-betterend-betternether.pw.toml"
 hash = "fe1c95f4f154e6244f8efbc5f0ea9065f1fde7281943f26e9153935785a85aae"
 metafile = true
