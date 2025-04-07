@@ -1258,11 +1258,6 @@ hash = "bb1f4a056cc6477388ab58c4d61d3391c7d3e23f03f648e73ffec594ae3dda6e"
 metafile = true
 
 [[files]]
-file = "mods/bioforge.pw.toml"
-hash = "741f7a560162815d76e760c04942d0f2da1a0853ae91ed9c8ed9a40ddabba9da"
-metafile = true
-
-[[files]]
 file = "mods/biomancy.pw.toml"
 hash = "d9c6be712050ede6a6aaf8c6d1d299fb08f475d874bc2f7ae8b2c33dc0c1d632"
 metafile = true
