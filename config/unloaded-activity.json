@@ -35,7 +35,7 @@
   "weatherFillCauldron": true,
   "accurateTurtleAgeAfterHatch": true,
   "enableBlockEntities": true,
-  "updateFurnace": true,
+  "updateFurnace": false,
   "enableEntities": true,
   "ageEntities": true
 }

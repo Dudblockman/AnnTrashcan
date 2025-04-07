@@ -1114,7 +1114,7 @@ hash = "3c0d8ffdd06ce88b843ce1d94fd301da721d66ce602f4f2c584ac91ead0099de"
 
 [[files]]
 file = "config/unloaded-activity.json"
-hash = "7e8dcf732578e08e4f7f84a05896cd9a747ac2cdd2c06f807539f341f775f2a3"
+hash = "662692b6bf0750188c51a7cc81c3e0f9987d5284e69331cf3119672b55493282"
 
 [[files]]
 file = "config/via_romana-common.toml"
