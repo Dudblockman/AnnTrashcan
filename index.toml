@@ -1118,11 +1118,11 @@ hash = "662692b6bf0750188c51a7cc81c3e0f9987d5284e69331cf3119672b55493282"
 
 [[files]]
 file = "config/via_romana-common.toml"
-hash = "4d0c713cc76e70481b4a57aaeead8e8558f693b4d104f938f118fbf81599e4f4"
+hash = "d27e09e53e8aaaff7a740c53994c26c895b5d7448698f3195ff934795c853fb7"
 
 [[files]]
 file = "config/via_romana_config.toml"
-hash = "38e342a0367a4b221e21bd2172bf1508c17d4293d71170629dcc97438a2f4b62"
+hash = "de8d44a92e3a62b74d303650d0ec813a65cc480f17458c7b5031a173d7dcebe5"
 
 [[files]]
 file = "config/villager-in-a-bucket.properties"
