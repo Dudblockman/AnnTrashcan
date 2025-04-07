@@ -1422,6 +1422,11 @@ hash = "9fd99767788ac2057a81fc222cfc5d21930ea23698be8fad70899f21c6c54d4e"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "9582c04926dd9cea7f68f6f1b4e068bd2ec3f6fcb2734497d885364c6b74b1e1"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
 metafile = true
@@ -1943,6 +1948,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "b309a9627de6d1566c146d6b006d9e2b85a3d29c6cdcc5a3bfffc323a7bb88ec"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-life-onion.pw.toml"
+hash = "c510494fb37ced4ad2d28573bf0ac6723e6541fb6a2d362593288f7bf4ecd2bc"
 metafile = true
 
 [[files]]
