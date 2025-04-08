@@ -1911,6 +1911,11 @@ hash = "b5ea11a7331ba6b6237fdc3c9dc07a172e064dcec56fa5824aee616de8bc827c"
 metafile = true
 
 [[files]]
+file = "mods/rebind-narrator.pw.toml"
+hash = "f714a54b3cffdaf560c6a3b1f6a71881a630381ecb316d20a43a97bb3a01590b"
+metafile = true
+
+[[files]]
 file = "mods/recipe-essentials-forge-fabric.pw.toml"
 hash = "346314904e0a035d68514e7d9e332d4a63e288abc7fd7bdfaf6d655c511a5916"
 metafile = true
