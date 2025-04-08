@@ -1178,11 +1178,6 @@ hash = "c09b7f023710dc5fd414a6bc8b86c38ad784f10ba43956d7cfc6d4653d1d8200"
 metafile = true
 
 [[files]]
-file = "mods/adaptive-performance-tweaks-spawn.pw.toml"
-hash = "b962924ce66ca14ad9869f5c22578c92781c190da6fefb233de3b3de6d2a6375"
-metafile = true
-
-[[files]]
 file = "mods/adaptive-performance-tweaks.pw.toml"
 hash = "901b6328e955729a5a9100779dd38c113598e8f1e3c0c65fff72ba5a564b9177"
 metafile = true
