@@ -1178,11 +1178,6 @@ hash = "c09b7f023710dc5fd414a6bc8b86c38ad784f10ba43956d7cfc6d4653d1d8200"
 metafile = true
 
 [[files]]
-file = "mods/adaptive-performance-tweaks.pw.toml"
-hash = "901b6328e955729a5a9100779dd38c113598e8f1e3c0c65fff72ba5a564b9177"
-metafile = true
-
-[[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "9d1b15ffa15606c346ad2ed32c349fceac9863ae13b433c2aee7d026c87d4339"
 metafile = true
