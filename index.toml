@@ -1199,7 +1199,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "cbe59162fdc234f11d3718f54e5ce116f9f1aa9b87e8560ae527275d094e0570"
+hash = "af81664fa766bb0cb2f4a383f2464e38300c28ebefcb0b87a53c9bf22873eaca"
 metafile = true
 
 [[files]]
@@ -1329,7 +1329,7 @@ metafile = true
 
 [[files]]
 file = "mods/cold-sweat.pw.toml"
-hash = "17cea9c923ee322ea075ca3cac0e705745776013a3626aa80280df5574a2dd55"
+hash = "97222a1696353cfe6553e524b364569e9c5d7d81b18f1bf954a8fc1da98bbb75"
 metafile = true
 
 [[files]]
@@ -1443,7 +1443,7 @@ metafile = true
 
 [[files]]
 file = "mods/doggy-talents-next.pw.toml"
-hash = "73319fabf14e0bb9f7c7fbec66e8bc9c4c96b6d21ac0d158c3eac2e836e42efb"
+hash = "feb48651aef32ab4e9849142c8c3fbf6cb9a49562f14f6db54def6a50bb64d87"
 metafile = true
 
 [[files]]
@@ -1742,7 +1742,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "1dd043febd765cb12315bcb12dd31312fc9f56d1e2984e027dfd6169e421b8f9"
+hash = "9848ba5e638b652311e5d90b8850415da8ecbc9d84a022664c65987ff11f659f"
 metafile = true
 
 [[files]]
@@ -2011,7 +2011,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-bumblezone.pw.toml"
-hash = "23ffc502a58ef49b1bc8bbc304f9eab23d804b25810330df8f1eb1c117fe1bb9"
+hash = "0babe4cec54005894a717a91d1fa87d478dd00898074af7c387f36bac4367468"
 metafile = true
 
 [[files]]
