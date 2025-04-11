@@ -1299,7 +1299,7 @@ metafile = true
 
 [[files]]
 file = "mods/caupona.pw.toml"
-hash = "df5cfd45d4272d3987079fe336fb9ed1d8b060a713bb253b05b8f1701e6c0262"
+hash = "224ced2eac669efa7195f8aa5433198d00fb6d07b2f6f36161c052a9c19a3630"
 metafile = true
 
 [[files]]
@@ -1363,7 +1363,7 @@ hash = "6ac9e61b9cbcf2ee027ae9faa2ba130d02ef0ab1c2d7bcde11fff20264b21a1e"
 
 [[files]]
 file = "mods/corail-tombstone.pw.toml"
-hash = "8e43ddf9c181f77fa9befb1cf300e348206cf297e21d395276e4c1169d1c8ac3"
+hash = "d5d92b74cfdb11a31711d60e5a35b6b3d6f37dbe4d173b3d5e30be35f5e540d5"
 metafile = true
 
 [[files]]
@@ -1393,7 +1393,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "1d638b73975c4a18e6cea859595f6b9f11e4b9217a29bb76b7fdfb099ecc1e2e"
+hash = "77cc97055c62c20185c31781c0be40db248dc04a728085bec7cfea37d018df16"
 metafile = true
 
 [[files]]
@@ -1438,7 +1438,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "42a7ffa2efa0ccf9260b887714b5da8e17cc7a9a59d02aaa8061bd5bf0ab0612"
+hash = "68960354be9294d5761b636b94e4f54715119602e83c4dd107698021dbeca16b"
 metafile = true
 
 [[files]]
@@ -1603,7 +1603,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "7685b99141b8493ca796b816151320f6a46fa3a6fc2ff8c749ecc8cf32cb9df3"
+hash = "53e690e118baf442ae92faee438328e629ba387cd77ad788ded22055773db80f"
 metafile = true
 
 [[files]]
@@ -1981,7 +1981,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "e7cacbfc09f20dd5da90496d3667a5d936e6eb7894c398ff8f766ace81c563c1"
+hash = "45a53404a7460d30dbf6d7689d267059106243423edb75844946e1d56f4dcc0e"
 metafile = true
 
 [[files]]
