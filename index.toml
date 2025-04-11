@@ -1641,9 +1641,8 @@ hash = "ded41a5d1d88d386654ea5d55452ecf1aa95c136842894930009f6e2b67d5181"
 metafile = true
 
 [[files]]
-file = "mods/hexdebug.pw.toml"
-hash = "67e2603525a3c122ea58cbb9bcd47bf5ccb455fba3e28454d7bfc765892b1a58"
-metafile = true
+file = "mods/hexdebug-forge-0.3.0+1.20.1-SNAPSHOT.jar"
+hash = "3226442451648307164c1b4211fe6cbad1e6cca1bf5d86cca20d2f8198d6e5db"
 
 [[files]]
 file = "mods/hextweaks.pw.toml"
