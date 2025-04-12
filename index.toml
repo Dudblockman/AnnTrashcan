@@ -1318,11 +1318,6 @@ hash = "ab769d9c60cfba798a0538bad596e374dc9c68a9c59ad83684afc66ce4ebfe7f"
 metafile = true
 
 [[files]]
-file = "mods/citreforged.pw.toml"
-hash = "ccc0aea2b6fd6a99829f213bc91eed50f94fa4370c8db41fec9b7aba107316db"
-metafile = true
-
-[[files]]
 file = "mods/clean-swing-through-grass.pw.toml"
 hash = "47fb31c0dd8d57b949af33591d811bad064e29599d5753ea8a6011e0e1498d0c"
 metafile = true
@@ -1584,6 +1579,11 @@ metafile = true
 [[files]]
 file = "mods/forcecraft.pw.toml"
 hash = "f046d7496d6b54d933674249ea8b06e555e237fab12a836b6ba4281a644faf02"
+metafile = true
+
+[[files]]
+file = "mods/forge-cit.pw.toml"
+hash = "f0f999293f442227eab70ab867bf14f1ed5c7f2ffda3d2e984a1e8e4e07daa24"
 metafile = true
 
 [[files]]
