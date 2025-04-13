@@ -834,7 +834,7 @@ hash = "480697ae74306cdcd17eed12a34795b7856f00d183d06ce69fd0fbf046c54c2e"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "8d54d1b96432777b1bb232605ab13d5dd963e5603b21a00192f59d3f31550aec"
+hash = "645a962791cc730b071f599b97038171744c4f6a7673e666d63490c3076c1cc0"
 
 [[files]]
 file = "config/recipeessentials.json"
@@ -1392,6 +1392,11 @@ hash = "fe1c95f4f154e6244f8efbc5f0ea9065f1fde7281943f26e9153935785a85aae"
 metafile = true
 
 [[files]]
+file = "mods/create-connected.pw.toml"
+hash = "4e3dbbb95b55eef9fb523514a157c89056cbd8ae380ec989c1dfa865f4c1a743"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "77cc97055c62c20185c31781c0be40db248dc04a728085bec7cfea37d018df16"
 metafile = true
@@ -1409,6 +1414,11 @@ metafile = true
 [[files]]
 file = "mods/create-ore-excavation.pw.toml"
 hash = "ab763f7759380850ae7939f8c69d1b2e123a84e7ace88c2bf86af521dbd55d75"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "719ad710d4cbd6bef252afe144a3609425f5b63592187448e14bbc3267d4941b"
 metafile = true
 
 [[files]]
