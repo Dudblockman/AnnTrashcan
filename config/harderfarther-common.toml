@@ -94,9 +94,9 @@
 
 	["Harder Farther Control Values"."Grim Effects Settings"]
 		#grimEffectTrees : Master Switch Trees suffer Grim Effects. 
-		grimEffectTrees = true
+		grimEffectTrees = false
 		#grimEffectAnimals : Master Switch Animals suffer grim effects. 
-		grimEffectAnimals = true
+		grimEffectAnimals = false
 		#grimEffectPig : Pigs in grim area become Piglins, Zombified Piglins, or Hoglins over time. 
 		grimEffectPigs = true
 		#grimEffectVillagers : Villagers in grim area become witches. 

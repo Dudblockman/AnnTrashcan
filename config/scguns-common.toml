@@ -19,10 +19,10 @@
 		enableHeadShots = true
 		#The value to multiply the damage by if projectile hit the players head
 		#Range: 1.0 ~ 1.7976931348623157E308
-		headShotDamageMultiplier = 1.25
+		headShotDamageMultiplier = 1.5
 		#The value to multiply the damage by if projectile is a critical hit
 		#Range: 1.0 ~ 1.7976931348623157E308
-		criticalDamageMultiplier = 1.5
+		criticalDamageMultiplier = 2.0
 		#If true, projectiles will ignore leaves when checking for collision
 		ignoreLeaves = true
 		#If true, projectiles will cause knockback when an entity is hit. By default this is set to true to match the behaviour of Minecraft.
@@ -34,7 +34,7 @@
 		improvedHitboxes = false
 		#Damage dealt by the Enemy Guns
 		#Range: 0.0 ~ 1.7976931348623157E308
-		enemyBulletDamage = 4.5
+		enemyBulletDamage = 8.5
 		#Energy produced per tick by the Polar Generator. Adjust this value to balance the generator's output.
 		#Range: > 1
 		energyProductionRate = 50
@@ -195,11 +195,11 @@
 		#Range: 0.0 ~ 1.7976931348623157E308
 		bearpack_shell_damage = 24.0
 		#If true, turret damage will scale over time
-		enable_damage_scaling = false
+		enable_damage_scaling = true
 		#The rate at which turret damage increases per day
 		#Range: 0.0 ~ 1.7976931348623157E308
 		damage_scaling_rate = 0.03
 		#The maximum damage that turret scaling can reach
 		#Range: 0.0 ~ 1.7976931348623157E308
-		max_scaled_damage = 1.7976931348623157E308
+		max_scaled_damage = 6
 

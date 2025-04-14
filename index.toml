@@ -578,11 +578,11 @@ hash = "0390dfc8ee58e0c47bd52b9649fcbeffc2664f104a7a42b629269a22308a3dee"
 
 [[files]]
 file = "config/gun_scaling/main.toml"
-hash = "c2b9b3e441f04d0e51bf4e9696fbc7a1756e23c069886a2159c850b69e03eed8"
+hash = "2e0dbaf7bcd05d43ece0e5cb98fd6bee63c82a95ae1de657b659f863a0cf84ca"
 
 [[files]]
 file = "config/harderfarther-common.toml"
-hash = "0a3517930612e9f1c5e37b02df073d0640be845552487c5816bab29e6624168c"
+hash = "462abe4626d0e9af80890341c47a3874992c86c02a8b26a14940fdc0785199a7"
 
 [[files]]
 file = "config/hexcasting-client.toml"
@@ -978,7 +978,7 @@ hash = "37d7e1abf160785d5f86d30da9b5b7a0d1c5641abf470b6828aba8a082f1175f"
 
 [[files]]
 file = "config/scguns-common.toml"
-hash = "51ec566894d19ec1be3571a6491c132cd930e380b20e6489b6750b203c61567b"
+hash = "07ee47b15372b68e6c3a9cc2eae4e5ede8065ffacee2cf43bebc657d881342b5"
 
 [[files]]
 file = "config/sculkhorde_config.toml"
