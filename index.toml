@@ -582,7 +582,7 @@ hash = "c2b9b3e441f04d0e51bf4e9696fbc7a1756e23c069886a2159c850b69e03eed8"
 
 [[files]]
 file = "config/harderfarther-common.toml"
-hash = "c6f689818e9a4475841582d54b94b6aeccd13db4b47fec618d8b80e68000958d"
+hash = "0a3517930612e9f1c5e37b02df073d0640be845552487c5816bab29e6624168c"
 
 [[files]]
 file = "config/hexcasting-client.toml"

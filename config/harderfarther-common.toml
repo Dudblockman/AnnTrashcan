@@ -20,10 +20,10 @@
 		makeMonstersHarderFarther = true
 		#boostMaxDistance: Distance til Maximum Boost Values Applied
 		#Range: 1000 ~ 6000000
-		boostMaxDistance = 30000
+		boostMaxDistance = 10000
 		#boostMinDistance: Distance til Boost Values Start.  Should be less than boostMaxDistance
 		#Range: 64 ~ 1000000
-		boostMinDistance = 1000
+		boostMinDistance = 1300
 		#Worldspawn Safe Distance: No Mobs Will Spawn In this Range
 		#Range: 1 ~ 1000
 		safeDistance = 64
@@ -53,13 +53,13 @@
 	["Harder Farther Control Values"."Boost Settings"]
 		#Boost Max Hit Points (Percent) 
 		#Range: 0 ~ 30000000
-		hpMaxBoost = 200
+		hpMaxBoost = 2000
 		#Boost Movement Speed (Percent). Very sensative setting. Over 50 kinda ridiculous 
 		#Range: 0 ~ 999
-		speedBoost = 20
+		speedBoost = 40
 		#Boost Attack Damage (percent).  Mobs base damage is about 3 points + 2 for hard mode.
 		#Range: 0 ~ 30000000
-		atkDmgBoost = 100
+		atkDmgBoost = 400
 		#Boost Knockback Resistance (Percent) over 100 has no additional effect.
 		#Range: 0 ~ 999
 		knockbackBoost = 95
