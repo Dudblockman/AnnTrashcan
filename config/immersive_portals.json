@@ -23,7 +23,7 @@
   "doCheckGlError": false,
   "shaderpackWarning": false,
   "portalWandCursorAlignment": 2,
-  "netherPortalMode": "normal",
+  "netherPortalMode": "adaptive",
   "endPortalMode": "normal",
   "enableWarning": false,
   "lightVanillaNetherPortalWhenCrouching": true,
