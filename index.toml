@@ -1363,7 +1363,7 @@ hash = "6ac9e61b9cbcf2ee027ae9faa2ba130d02ef0ab1c2d7bcde11fff20264b21a1e"
 
 [[files]]
 file = "mods/corail-tombstone.pw.toml"
-hash = "d5d92b74cfdb11a31711d60e5a35b6b3d6f37dbe4d173b3d5e30be35f5e540d5"
+hash = "a753795f2581005ff60f4056870afcb400c05358156ffd3513d25b80743df5dd"
 metafile = true
 
 [[files]]
@@ -1383,7 +1383,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-cold-sweat.pw.toml"
-hash = "af582c195e46742430c413e90c460af5829f25485d2d12b0816d8fefa1cf177e"
+hash = "1c0b17bc7d90af4778f1d1faf6152bc26c263d32294eafad3587828183bd2269"
 metafile = true
 
 [[files]]
@@ -1448,7 +1448,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "68960354be9294d5761b636b94e4f54715119602e83c4dd107698021dbeca16b"
+hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
 metafile = true
 
 [[files]]
@@ -1523,7 +1523,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "b0255e234468055440b05f2160e41f8cd75f61f91942f9d91549654f98899911"
+hash = "d48a1ea93de8cd5febb95ba52989d8d9ab4e998cfbdf9c1076a9f2e571d2fcbe"
 metafile = true
 
 [[files]]
@@ -1761,7 +1761,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "9848ba5e638b652311e5d90b8850415da8ecbc9d84a022664c65987ff11f659f"
+hash = "cc6bcc0aa4e2b4c4b83c50a7bd73405ac60ba5e09a6bc92fbd9436cc61c10009"
 metafile = true
 
 [[files]]
@@ -1806,7 +1806,7 @@ metafile = true
 
 [[files]]
 file = "mods/mutil.pw.toml"
-hash = "4e0ebdb97b93b545a2ab458e7aea179a32564234a7828fe4ecbee415d68916a2"
+hash = "6161befd655a400fb4a07d8702b62c3f24f828d5ee6336c3dcacd6bcaff78fc1"
 metafile = true
 
 [[files]]
@@ -2015,7 +2015,7 @@ metafile = true
 
 [[files]]
 file = "mods/tetra.pw.toml"
-hash = "39df5b6db8a65ba9ee61716d8b66c2d17cfd93eb50e2c648457fd386347209f7"
+hash = "8f40eba1e90bc4accf20ddca9f3e93cbdb5c4a724820db36661446a50fa42414"
 metafile = true
 
 [[files]]
