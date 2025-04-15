@@ -690,7 +690,7 @@ hash = "1d449fb4a4607bbdac66e24ebed1ca7cd087eb8c3ac8618efe25afb1e35daaef"
 
 [[files]]
 file = "config/mca.json"
-hash = "322308378e0de589821dd7d77ba8a1639840aab15f86924d698dc725d001bc33"
+hash = "cca54c62f818e9a1aabd9dbbd66c388982fccffe7f6943386ab3c91d9d17c6ef"
 
 [[files]]
 file = "config/minecolonies-client.toml"
@@ -1058,7 +1058,7 @@ hash = "6aab818e937653524de211c97044504027c049e5392277204419d1ed2b8e0217"
 
 [[files]]
 file = "config/tombstone-server.toml"
-hash = "ad13c0b3da6c56e76f889bf7b229029d78cc3c9ef8f47a640b042c28626b399c"
+hash = "ce6b695d3b13503c51ed885d7842055172cac24a8093d383492a660a914e41f4"
 
 [[files]]
 file = "config/tombstone/loottables/tombstone-pool-abandoned_grave.json"

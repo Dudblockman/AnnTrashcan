@@ -9,58 +9,58 @@
 	xp_loss_on_death = 85
 	#The duration of the Ghostly Shape effect in seconds [0..MAX|default:120]
 	#Range: > 0
-	ghostly_shape_duration = 120
+	ghostly_shape_duration = 240
 
 #Allows to customize or disable the enchantments
 [enchantments]
 	#Enables the enchantment Spectral Bite [false/true|default:true]
-	enable_enchantment_spectral_bite = true
+	enable_enchantment_spectral_bite = false
 	#Enables the enchantment Soulbound [false/true|default:true]
 	enable_enchantment_soulbound = true
 	#Enables the enchantment Magic Siphon [false/true|default:true]
-	enable_enchantment_magic_siphon = true
+	enable_enchantment_magic_siphon = false
 	#Enables the enchantment Plague Bringer [false/true|default:true]
-	enable_enchantment_plague_bringer = true
+	enable_enchantment_plague_bringer = false
 	#Enables the enchantment Curse of Bones [false/true|default:true]
-	enable_enchantment_curse_of_bones = true
+	enable_enchantment_curse_of_bones = false
 	#Enables the enchantment Blessing [false/true|default:true]
-	enable_enchantment_blessing = true
+	enable_enchantment_blessing = false
 	#Enables the enchantment Frostbite [false/true|default:true]
-	enable_enchantment_frostbite = true
+	enable_enchantment_frostbite = false
 	#Enables the enchantment Spectral Conjurer [false/true|default:true]
-	enable_enchantment_spectral_conjurer = true
+	enable_enchantment_spectral_conjurer = false
 	#Enables the enchantment Incurable Wounds [false/true|default:true]
-	enable_enchantment_incurable_wounds = true
+	enable_enchantment_incurable_wounds = false
 	#Enables the enchantment Decrepitude [false/true|default:true]
-	enable_enchantment_decrepitude = true
+	enable_enchantment_decrepitude = false
 	#Enables the enchantment Sanctified [false/true|default:true]
-	enable_enchantment_sanctified = true
+	enable_enchantment_sanctified = false
 	#Enables the enchantment Ruthless Strike [false/true|default:true]
-	enable_enchantment_ruthless_strike = true
+	enable_enchantment_ruthless_strike = false
 	#Allows Soulbound at enchanting table [false/true|default:false]
 	soulbound_enchanting_table = true
 	#Allows Spectral Bite at enchanting table [false/true|default:false]
-	spectral_bite_enchanting_table = true
+	spectral_bite_enchanting_table = false
 	#Allows Magic Siphon at enchanting table [false/true|default:false]
-	magic_siphon_enchanting_table = true
+	magic_siphon_enchanting_table = false
 	#Allows Plague Bringer at enchanting table [false/true|default:false]
-	plague_bringer_enchanting_table = true
+	plague_bringer_enchanting_table = false
 	#Allows Curse of Bones at enchanting table [false/true|default:false]
-	curse_of_bones_enchanting_table = true
+	curse_of_bones_enchanting_table = false
 	#Allows Blessing at enchanting table [false/true|default:false]
-	blessing_enchanting_table = true
+	blessing_enchanting_table = false
 	#Allows Frostbite at enchanting table [false/true|default:false]
-	frostbite_enchanting_table = true
+	frostbite_enchanting_table = false
 	#Allows Spectral Conjurer at enchanting table [false/true|default:false]
-	spectral_conjurer_enchanting_table = true
+	spectral_conjurer_enchanting_table = false
 	#Allows Incurable Wounds at enchanting table [false/true|default:false]
-	incurable_wounds_enchanting_table = true
+	incurable_wounds_enchanting_table = false
 	#Allows Decrepitude at enchanting table [false/true|default:false]
-	decrepitude_enchanting_table = true
+	decrepitude_enchanting_table = false
 	#Allows Sanctified at enchanting table [false/true|default:false]
-	sanctified_enchanting_table = true
+	sanctified_enchanting_table = false
 	#Allows Ruthless Strike at enchanting table [false/true|default:false]
-	ruthless_strike_enchanting_table = true
+	ruthless_strike_enchanting_table = false
 
 #Allows to customize or disable the potions
 [potions]
@@ -163,7 +163,7 @@
 [decorative_grave]
 	#The cooldown in minutes to pray with the Ankh [1..600|default:120]
 	#Range: 1 ~ 600
-	prayer_cooldown = 120
+	prayer_cooldown = 60
 
 #Allows to disable some magic items
 [allowedMagicItems]
@@ -180,7 +180,7 @@
 	#Scroll of Knowledge [false/true|default:true]
 	allow_scroll_of_knowledge = true
 	#Tablet of Recall [false/true|default:true]
-	allow_tablet_of_recall = true
+	allow_tablet_of_recall = false
 	#Tablet of Home [false/true|default:true]
 	allow_tablet_of_home = true
 	#Tablet of Assistance [false/true|default:true]
