@@ -614,7 +614,7 @@ hash = "e183689f333c024b2afe504dcff455faa214bd05b62d14ca21216fd916c5099b"
 
 [[files]]
 file = "config/immersive_portals.json"
-hash = "1b349fa24ead559abb0a140d8e9fa788b80627791c83eee9be901751762b6b20"
+hash = "296a3d6becd6499dd32cecefab0ba8cf370f3c790a7c82d4217ef3d95c217ba3"
 
 [[files]]
 file = "config/inline/client-config.toml"
