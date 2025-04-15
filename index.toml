@@ -578,7 +578,7 @@ hash = "0390dfc8ee58e0c47bd52b9649fcbeffc2664f104a7a42b629269a22308a3dee"
 
 [[files]]
 file = "config/gun_scaling/main.toml"
-hash = "2e0dbaf7bcd05d43ece0e5cb98fd6bee63c82a95ae1de657b659f863a0cf84ca"
+hash = "8cc4b1f6f0aed3adaf38b5a0d8aabadca9dcfb82add0b5c9726cd2ba84b27fd5"
 
 [[files]]
 file = "config/harderfarther-common.toml"

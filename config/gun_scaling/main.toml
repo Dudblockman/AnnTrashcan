@@ -7,7 +7,7 @@
 	"Damage Increase Rate" = 0.03
 	#The base damage value for the guns.
 	#Range: 0.0 ~ Infinity
-	"Base Damage" = 1.75
+	"Base Damage" = 2.25
 	#The maximum damage that gun scaling can reach.
 	#Range: 0.0 ~ Infinity
 	"Max Scaled Damage" = +inf
