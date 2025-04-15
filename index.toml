@@ -674,7 +674,7 @@ hash = "4e37c085446f2a5be3a3cc4765ffc9657e71473245574c3e398c64fef07615a0"
 
 [[files]]
 file = "config/lootr-common.toml"
-hash = "ae99282e7831653bf582c9c51d33a41243554af41bb1eb49ebdcdbec11e6f444"
+hash = "af8c397df2e57b9597286f96686dac9b87350d10178a1d5d51606c1f5790af2f"
 
 [[files]]
 file = "config/mahoutsukai-client.toml"
@@ -690,7 +690,7 @@ hash = "1d449fb4a4607bbdac66e24ebed1ca7cd087eb8c3ac8618efe25afb1e35daaef"
 
 [[files]]
 file = "config/mca.json"
-hash = "195d3eae1a7e1bc5e79bcec483b7a06cf9ac0be520beb9f7a3786a2d28c880a1"
+hash = "322308378e0de589821dd7d77ba8a1639840aab15f86924d698dc725d001bc33"
 
 [[files]]
 file = "config/minecolonies-client.toml"

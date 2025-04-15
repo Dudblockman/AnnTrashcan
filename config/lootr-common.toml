@@ -46,7 +46,7 @@ power_comparators = true
 #when true, custom inventories will act like trapped chests when opened
 trapped_custom = false
 #lootr chests cannot be destroyed by creeper or TNT explosions
-blast_resistant = false
+blast_resistant = true
 #lootr chests cannot be destroyed by any explosion
 blast_immune = false
 #prevent notifications of decaying or refreshed chests
@@ -77,7 +77,7 @@ refresh_loot_tables = []
 #list of mod IDs whose loot tables will refresh (default blank, meaning no chests refresh, in the format of ["modid", "othermodid"])
 refresh_modids = []
 #list of dimensions where loot chests should automatically refresh (default: blank, e.g., ["minecraft:overworld", "othermod:otherdimension"])
-refresh_dimensions = []
+refresh_dimensions = ["minecraft:the_end"]
 #list of structures in which loot chests should automatically refresh (in the format of ["modid:structure_name", "othermodid:other_structure_name"])
 refresh_structures = []
 #overriding refresh_loot_tables, refresh_modids and refresh_dimensions: all chests will refresh after being opened for the first time
