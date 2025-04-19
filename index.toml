@@ -38,7 +38,7 @@ hash = "e0a27456ad14172319587e34f879c583b4cb9006163e1e7fb8ff0767c02ed690"
 
 [[files]]
 file = "config/adaptive_performance_tweaks/items.toml"
-hash = "c062018a27a296b29dbdbf8059b7a7c65cfade0c89a3f93e6136b330632c11ea"
+hash = "e367349ea276ba9665dcf64dfe31f786f3bfc75cc4966455d8fa3c35fe26e0ca"
 
 [[files]]
 file = "config/adaptive_performance_tweaks/player.toml"
@@ -1972,6 +1972,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "74605dbc168a001511741a85318364fc67d83f975528d279005304a182d87762"
+metafile = true
+
+[[files]]
+file = "mods/server-tab-info.pw.toml"
+hash = "0d5c9487a5fcffa4eff7cf88033b7d736f945d858ff2e641265d15e0ef8f59d0"
 metafile = true
 
 [[files]]
