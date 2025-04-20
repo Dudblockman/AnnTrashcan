@@ -582,7 +582,7 @@ hash = "cc5b75cbc4129978916c6b627a5b749cd65a04b10f77c3de41c809994d544444"
 
 [[files]]
 file = "config/harderfarther-common.toml"
-hash = "462abe4626d0e9af80890341c47a3874992c86c02a8b26a14940fdc0785199a7"
+hash = "c50e3063e164cb2bafed3504b8c2926dd49958a9e7a27d14069b063501ceb643"
 
 [[files]]
 file = "config/hexcasting-client.toml"
@@ -834,7 +834,7 @@ hash = "480697ae74306cdcd17eed12a34795b7856f00d183d06ce69fd0fbf046c54c2e"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "645a962791cc730b071f599b97038171744c4f6a7673e666d63490c3076c1cc0"
+hash = "6b2babdf17be50b5d2d2d0ad88df34e13c5a32a173bf9dbec4282d1e9ddf7921"
 
 [[files]]
 file = "config/recipeessentials.json"
@@ -1852,6 +1852,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "f16fd7fba2242ba733897eeaaa09cb27e01a438d240e175a26c956319f8a1561"
+metafile = true
+
+[[files]]
+file = "mods/notenoughrecipebook.pw.toml"
+hash = "5dd8e869fbebed8abe7886fd28f1f192c420d3fefd9f714939c2a501d3a4a1af"
 metafile = true
 
 [[files]]

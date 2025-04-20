@@ -56,10 +56,10 @@
 		hpMaxBoost = 2000
 		#Boost Movement Speed (Percent). Very sensative setting. Over 50 kinda ridiculous 
 		#Range: 0 ~ 999
-		speedBoost = 40
+		speedBoost = 60
 		#Boost Attack Damage (percent).  Mobs base damage is about 3 points + 2 for hard mode.
 		#Range: 0 ~ 30000000
-		atkDmgBoost = 400
+		atkDmgBoost = 2400
 		#Boost Knockback Resistance (Percent) over 100 has no additional effect.
 		#Range: 0 ~ 999
 		knockbackBoost = 95
