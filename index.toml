@@ -38,7 +38,7 @@ hash = "e0a27456ad14172319587e34f879c583b4cb9006163e1e7fb8ff0767c02ed690"
 
 [[files]]
 file = "config/adaptive_performance_tweaks/items.toml"
-hash = "e367349ea276ba9665dcf64dfe31f786f3bfc75cc4966455d8fa3c35fe26e0ca"
+hash = "1d179b8a1bd29f51261909cc47cf7a255da7fa5a51c90afa423b1c321d12fabd"
 
 [[files]]
 file = "config/adaptive_performance_tweaks/player.toml"
