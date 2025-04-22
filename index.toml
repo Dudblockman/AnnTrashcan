@@ -1656,8 +1656,9 @@ hash = "ded41a5d1d88d386654ea5d55452ecf1aa95c136842894930009f6e2b67d5181"
 metafile = true
 
 [[files]]
-file = "mods/hexdebug-forge-0.3.0+1.20.1-SNAPSHOT.jar"
-hash = "3226442451648307164c1b4211fe6cbad1e6cca1bf5d86cca20d2f8198d6e5db"
+file = "mods/hexdebug.pw.toml"
+hash = "324da80a3215bb8729330dadbe6f5ddc022b7d29411c29c803a027c0aff84e4f"
+metafile = true
 
 [[files]]
 file = "mods/hextweaks.pw.toml"
@@ -1702,6 +1703,11 @@ metafile = true
 [[files]]
 file = "mods/integrated-villages.pw.toml"
 hash = "da2fd8a09c9c930931409a8c454a82ec4b8f165c33ebb5bbc7f0bfd7819443a1"
+metafile = true
+
+[[files]]
+file = "mods/ioticblocks.pw.toml"
+hash = "e020308ed7d53d35454e422c23b93bcfd3d2ab14b32c229ce767908c5064b5ce"
 metafile = true
 
 [[files]]
