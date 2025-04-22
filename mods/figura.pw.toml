@@ -14,5 +14,5 @@ project-id = 901503
 
 [option]
 optional = true
-default = true
 description = "Custom player models"
+default = true

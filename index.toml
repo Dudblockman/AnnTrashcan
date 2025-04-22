@@ -1274,7 +1274,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "02b6b3942f3f54e0137af76cedc9921ed1cee6bb1e10a3471bed6ab60e8ddcd9"
+hash = "9c848ce0b48618f6aba15d09692d1f11da522e7e854b1c1276229e1ecdef618a"
 metafile = true
 
 [[files]]
@@ -1294,7 +1294,7 @@ metafile = true
 
 [[files]]
 file = "mods/cold-sweat.pw.toml"
-hash = "97222a1696353cfe6553e524b364569e9c5d7d81b18f1bf954a8fc1da98bbb75"
+hash = "7789d2d59883b24c45a122f0bd77497aa5162b4708b69c767309eb5c40b6c464"
 metafile = true
 
 [[files]]
@@ -1329,11 +1329,6 @@ hash = "6ac9e61b9cbcf2ee027ae9faa2ba130d02ef0ab1c2d7bcde11fff20264b21a1e"
 [[files]]
 file = "mods/corail-tombstone.pw.toml"
 hash = "a753795f2581005ff60f4056870afcb400c05358156ffd3513d25b80743df5dd"
-metafile = true
-
-[[files]]
-file = "mods/crackers-wither-storm-mod-v-sides-soundtrack.pw.toml"
-hash = "c9211dcfc7fef0f73c3c562fd53f7ef5a80b5fd378eb9be020918e06b803dfdf"
 metafile = true
 
 [[files]]
@@ -1373,7 +1368,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-ore-excavation.pw.toml"
-hash = "ab763f7759380850ae7939f8c69d1b2e123a84e7ace88c2bf86af521dbd55d75"
+hash = "978345682f8eb5695388c93737cb16a40d9c409a69fa93418d601850671998d2"
 metafile = true
 
 [[files]]
@@ -1418,7 +1413,7 @@ metafile = true
 
 [[files]]
 file = "mods/doggy-talents-next.pw.toml"
-hash = "feb48651aef32ab4e9849142c8c3fbf6cb9a49562f14f6db54def6a50bb64d87"
+hash = "07245e0e03fb522d28ca357e0be768b7884595171e2eac79da87c98652bd53a0"
 metafile = true
 
 [[files]]
@@ -1453,7 +1448,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "7c5790cb26410eb6b27499529eed86951545c0fafc4e5d4bd4c98bfab09b1baa"
+hash = "53d5d1b9287e8f53e4fff7405dcf7bfe90d5686571031bda1a6eba87a65bfa57"
 metafile = true
 
 [[files]]
@@ -1508,7 +1503,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "4835b66cd4c26a027d52b4d15916f010c326537bebaa81350ddd40b9df61cf27"
+hash = "b913a4cd873ed0b32990101771291986a4a781c1e0330abdcd6a5d4fa59fa2b3"
 metafile = true
 
 [[files]]
@@ -1528,7 +1523,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "2329297fc56d8a67865118cc53c294a3e99a291e9efea13e55ba6d7a4f9fabaf"
+hash = "a14f615d1077e4a8c2ed74bceecd3db8258d3976c69e42636b99aa0925f7fd0b"
 metafile = true
 
 [[files]]
@@ -1598,7 +1593,7 @@ metafile = true
 
 [[files]]
 file = "mods/hex-casting.pw.toml"
-hash = "61e5f0c2fc067877744d9cdbed9704e4da4933a4be893e5ef61174346fb13af6"
+hash = "59a167a2e05a518d25d1e6f1b4789bad66a47e7fa2909817c5ec433c7aa46661"
 metafile = true
 
 [[files]]
@@ -1606,8 +1601,8 @@ file = "mods/hexal-forge-1.20.1-0.3.0-3-skyevg-unofficial.jar"
 hash = "319c97bf00a879d34c146cbbfcec6c29f97a591abc92c293281d99fff3cf9605"
 
 [[files]]
-file = "mods/hexcassettes.pw.toml"
-hash = "39e27b12d6b188df2b249bf84ed8427c62a7d9c9802ab0469304d554f89f43be"
+file = "mods/hexcasting.pw.toml"
+hash = "ded41a5d1d88d386654ea5d55452ecf1aa95c136842894930009f6e2b67d5181"
 metafile = true
 
 [[files]]
@@ -1615,8 +1610,8 @@ file = "mods/hexdebug-forge-0.3.0+1.20.1-SNAPSHOT.jar"
 hash = "3226442451648307164c1b4211fe6cbad1e6cca1bf5d86cca20d2f8198d6e5db"
 
 [[files]]
-file = "mods/hexical.pw.toml"
-hash = "353bc9603d4bfa25ce7e2e15a1a8cf34f6ab18695cdafd8c4e0d351e841ac157"
+file = "mods/hextweaks.pw.toml"
+hash = "3920e14488c4d2c89fbb32354cba5eb0feb457ef38815af9f2c22acef4f143bd"
 metafile = true
 
 [[files]]
@@ -1706,7 +1701,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "f13e328561f1ee2eaf77fedcd5fcc253fb9b8b128facea35427e89bd5d95e357"
+hash = "2ad92a3b23a7e8944ac872caee3d73cd7bd5046bcc6a9a5635533ba3cf5660b1"
 metafile = true
 
 [[files]]
@@ -1721,7 +1716,7 @@ metafile = true
 
 [[files]]
 file = "mods/mowzies-mobs.pw.toml"
-hash = "55875730ed8ce244b56bf08d818a4ffb3c347a5280a62ba636b82b6aee125e3d"
+hash = "dc95cb62ee91e8314cf504aaec5b77c1500c38e41f9b78abc179dfe94e76423f"
 metafile = true
 
 [[files]]
@@ -1826,7 +1821,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "2a0cb33fb2c23f157e0295ae75f48c7531441e451187cc9fedf5054d728be929"
+hash = "8c65958007f81cdf1a57dac999ec7ffdde17cce6154c9a2f75bbb389fd11efbf"
 metafile = true
 
 [[files]]
@@ -1841,7 +1836,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "2f3081029fe8b579d4a60d2191613ed17cb4bff3390280c56817cb8149422aef"
+hash = "4eb683644ee4e38e00b06df946b71ad8fedaa860fcabbd91ec6ceb71c65b8d81"
 metafile = true
 
 [[files]]
@@ -1886,7 +1881,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "74605dbc168a001511741a85318364fc67d83f975528d279005304a182d87762"
+hash = "e7d596f25bd16e1cd85b34896f69c8801312de601f5af48cb412a2be505f09fb"
 metafile = true
 
 [[files]]
@@ -1896,7 +1891,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "b309a9627de6d1566c146d6b006d9e2b85a3d29c6cdcc5a3bfffc323a7bb88ec"
+hash = "d48389b613746c1913f8b14f24113c662951b54dba44808c5c42d11c9b139e9b"
 metafile = true
 
 [[files]]
@@ -1911,7 +1906,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "45a53404a7460d30dbf6d7689d267059106243423edb75844946e1d56f4dcc0e"
+hash = "2ede960db097fe09197b52d088ae4863da30ab80c0a1c0ae4b29075eeed23b11"
 metafile = true
 
 [[files]]
@@ -1955,7 +1950,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-bumblezone.pw.toml"
-hash = "0babe4cec54005894a717a91d1fa87d478dd00898074af7c387f36bac4367468"
+hash = "32a2b9290cc811b5a3f6f9fcb8427ab7f1d5b517fe446c599f967e20f4a1efe3"
 metafile = true
 
 [[files]]
@@ -2010,7 +2005,7 @@ metafile = true
 
 [[files]]
 file = "mods/zeta.pw.toml"
-hash = "98a5f14605e51677639c024541e9453a95911cbc21edfe94057b0ac4a8073ddd"
+hash = "557d160e4a3d856c6bbe36c39ee7c6cd42824363690b61d5f23bbac153c8edbc"
 metafile = true
 
 [[files]]
