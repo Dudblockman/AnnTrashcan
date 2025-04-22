@@ -1158,33 +1158,23 @@ hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
 metafile = true
 
 [[files]]
-file = "mods/adaptive-performance-tweaks-core.pw.toml"
-hash = "26f3fd1bdaab9f0f5ce3741f1bd70ccac7b7b1ee079f7223b893554d5ebe8940"
-metafile = true
-
-[[files]]
-file = "mods/adaptive-performance-tweaks-gamerules.pw.toml"
-hash = "8ad5f5817cbe5ca76ba9078902c40d249f1d3a183d9c7b9863e2cd261da9ea41"
-metafile = true
-
-[[files]]
-file = "mods/adaptive-performance-tweaks-items.pw.toml"
-hash = "bed1b16389b7f88c006a8de3bbba3f736af7c5d6c58219a561c17dab3252b78c"
-metafile = true
-
-[[files]]
-file = "mods/adaptive-performance-tweaks-player.pw.toml"
-hash = "c09b7f023710dc5fd414a6bc8b86c38ad784f10ba43956d7cfc6d4653d1d8200"
-metafile = true
-
-[[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "9d1b15ffa15606c346ad2ed32c349fceac9863ae13b433c2aee7d026c87d4339"
 metafile = true
 
 [[files]]
+file = "mods/alexs-caves.pw.toml"
+hash = "0cbc4b2c6b58b7a94f030ae84f18057e5dc78a17bad429f40b8884926a6ab233"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "bcc1a00d272a45143109d2808452a9d24bbc886fe199488fb4b7819a79454d17"
+metafile = true
+
+[[files]]
+file = "mods/antique-atlas-4.pw.toml"
+hash = "6486abd02846d51e2da7c93ddc1bb66ea57d5917bd20e9df33d6063ab74097aa"
 metafile = true
 
 [[files]]
@@ -1218,11 +1208,6 @@ hash = "0c6982d793283b27ef35fdc3b57b7b9554fbc162c03ac7431ebbee9b1d5b241c"
 metafile = true
 
 [[files]]
-file = "mods/beans-backpacks.pw.toml"
-hash = "049913d044b03285f9ee9335e1fe5bf891a359cf0140279239e5b69559f7846a"
-metafile = true
-
-[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "6d369d90dac6730c6faa243bf73d00d9945e2a932c9c031eb7619d979eaebe8d"
 metafile = true
@@ -1230,16 +1215,6 @@ metafile = true
 [[files]]
 file = "mods/better-chunk-loading-forge-fabric.pw.toml"
 hash = "7499dcfc1c246bf1ceb3b82992cc7478a9d8e29900f6c77c1c2a425665b4841d"
-metafile = true
-
-[[files]]
-file = "mods/betterend.pw.toml"
-hash = "4b8ffbe47270effb2da83ff2fba6e5dea0158a515033b61a484a21aae6146a76"
-metafile = true
-
-[[files]]
-file = "mods/betternether.pw.toml"
-hash = "f04f6619202e8b2b22e33c4ce152f879633577d82ada897327603c050da601df"
 metafile = true
 
 [[files]]
@@ -1300,11 +1275,6 @@ metafile = true
 [[files]]
 file = "mods/caupona.pw.toml"
 hash = "224ced2eac669efa7195f8aa5433198d00fb6d07b2f6f36161c052a9c19a3630"
-metafile = true
-
-[[files]]
-file = "mods/chance-cubes.pw.toml"
-hash = "6bceebf72b5c38c350d3a9548240e2689df2e21ef3dc33df8764f8eb1fbbe7e6"
 metafile = true
 
 [[files]]
@@ -1402,11 +1372,6 @@ hash = "77cc97055c62c20185c31781c0be40db248dc04a728085bec7cfea37d018df16"
 metafile = true
 
 [[files]]
-file = "mods/create-molten-vents.pw.toml"
-hash = "ee512b039f194f56b20ca8c26a809cb7b198813d0a4f03d66e37aca70493b5f4"
-metafile = true
-
-[[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "daf1255fbd2312eaef5aed51d659c4db0d5bd99ff193dfd9425b5cf0e2121ab9"
 metafile = true
@@ -1497,11 +1462,6 @@ hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
 metafile = true
 
 [[files]]
-file = "mods/embers-rekindled.pw.toml"
-hash = "d0820edd1c8aa57473f788567e58c2ae5b411a6eb572a4f2067403e3382a5813"
-metafile = true
-
-[[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "6d5b51a81ccf1a172c9d15461f6405d32f55fbd1b27b8ab6b272fca9fd817508"
 metafile = true
@@ -1587,11 +1547,6 @@ hash = "2329297fc56d8a67865118cc53c294a3e99a291e9efea13e55ba6d7a4f9fabaf"
 metafile = true
 
 [[files]]
-file = "mods/forcecraft.pw.toml"
-hash = "f046d7496d6b54d933674249ea8b06e555e237fab12a836b6ba4281a644faf02"
-metafile = true
-
-[[files]]
 file = "mods/forge-cit.pw.toml"
 hash = "aa80f559061dc262eeb6c0652bbc2edeb8372d5e17969e45e8e6e8bd9799ec12"
 metafile = true
@@ -1614,6 +1569,16 @@ metafile = true
 [[files]]
 file = "mods/ftb-backups-2.pw.toml"
 hash = "b3693e7a5647d4e28fc30ad3e85193c668a98a410dc3f425f19561cfea68957f"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "eb351918762f5c8f05672257082d1ca144c3c9397c40d6785116d1af8b02d864"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "6a0155012732893dae42d8a7dae4df181367eaaea57296e0ca9849567e7b9b4f"
 metafile = true
 
 [[files]]
@@ -1670,11 +1635,6 @@ hash = "3920e14488c4d2c89fbb32354cba5eb0feb457ef38815af9f2c22acef4f143bd"
 metafile = true
 
 [[files]]
-file = "mods/icarus.pw.toml"
-hash = "5dd5e7e6e505fef50bc54fda18b8f27cb2739459119464c451438802021d17c1"
-metafile = true
-
-[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "5851bef35e786bfcdb837dfc380c4bd22c857434b2997235a551b3a0cf72d158"
 metafile = true
@@ -1682,11 +1642,6 @@ metafile = true
 [[files]]
 file = "mods/idas.pw.toml"
 hash = "641e8cdce2074ed960325fa823365c9832e01c23fa2031273f5701298618db49"
-metafile = true
-
-[[files]]
-file = "mods/immersive-portals-neoforge.pw.toml"
-hash = "8c56189a235a058e9dfd8a1f6ffa449b1cfcdb957f77f07750ee203057025b9a"
 metafile = true
 
 [[files]]
@@ -1750,11 +1705,6 @@ hash = "c01e4f873d0c5deb69686ad4583b8c052408256f3641a4d6c277b865fc341634"
 metafile = true
 
 [[files]]
-file = "mods/map-atlases-forge.pw.toml"
-hash = "854c34183553ce0af5beed4d4583339398b4904ec8144a51d4c75e07c6ae432b"
-metafile = true
-
-[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
 metafile = true
@@ -1762,11 +1712,6 @@ metafile = true
 [[files]]
 file = "mods/minecolonies.pw.toml"
 hash = "cc6bcc0aa4e2b4c4b83c50a7bd73405ac60ba5e09a6bc92fbd9436cc61c10009"
-metafile = true
-
-[[files]]
-file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "b178d1d5ea81149a287303b595405af33d0ec73047bd9a3ff79ca5715c8d4578"
 metafile = true
 
 [[files]]
@@ -1842,11 +1787,6 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "dbd8ee9c150f054d96e1e3cf97c8cb169cf854a84532e21daab9e11309a67fcf"
-metafile = true
-
-[[files]]
-file = "mods/nomadic-tents.pw.toml"
-hash = "0dd7153cdc0d4360e141c3880d9736ca6dd4641448c0ffa71082236b91cd2fc9"
 metafile = true
 
 [[files]]
@@ -2012,6 +1952,11 @@ metafile = true
 [[files]]
 file = "mods/suppressopengl1280-1.2.2-1041fork.jar"
 hash = "09a91afa1236ec77436065176ed6a2c87b1993b6859c01919fd24895d66eeb8d"
+
+[[files]]
+file = "mods/surveyor.pw.toml"
+hash = "f05a1d7a46d6844e139a23b46be8fa214f0029a1a9c202689e98e9f7fb67ac05"
+metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
