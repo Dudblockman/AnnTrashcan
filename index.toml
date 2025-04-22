@@ -1233,11 +1233,6 @@ hash = "d9c6be712050ede6a6aaf8c6d1d299fb08f475d874bc2f7ae8b2c33dc0c1d632"
 metafile = true
 
 [[files]]
-file = "mods/blockui.pw.toml"
-hash = "b66321dcd74400f64d539bde020f14335d77d04012b2f991b0cfb5bc800ba9a7"
-metafile = true
-
-[[files]]
 file = "mods/blood-magic.pw.toml"
 hash = "488623331de35d0132795aeb028cca441fc0d5c2e358faf25e973894fb3859a7"
 metafile = true
@@ -1432,11 +1427,6 @@ hash = "2aa8e99103e73af719667f2c03ab4380b1febed92cce4724aff8a5ec0e3cafea"
 metafile = true
 
 [[files]]
-file = "mods/domum-ornamentum.pw.toml"
-hash = "6536d3a02319fb3500cd412ddb715f7be2818aa60f3b3dacd2658a0d85e31d15"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-view.pw.toml"
 hash = "9503bfd7d59bb3f50232a6c5ea90e5790e178cc96b2463eb3e9775f65d1ef4ea"
 metafile = true
@@ -1444,11 +1434,6 @@ metafile = true
 [[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "3b17a2980b74426f94633164b0c068f8afa025eabee0e0bd1a32c5965361c028"
-metafile = true
-
-[[files]]
-file = "mods/easy-magic.pw.toml"
-hash = "6e00b7d2b9e48e4286f7313f848b2520ebb26315672bfa4a27bef23d02db2ca8"
 metafile = true
 
 [[files]]
@@ -1710,11 +1695,6 @@ hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
 metafile = true
 
 [[files]]
-file = "mods/minecolonies.pw.toml"
-hash = "cc6bcc0aa4e2b4c4b83c50a7bd73405ac60ba5e09a6bc92fbd9436cc61c10009"
-metafile = true
-
-[[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "f56fcec37f225c9b8a43e46c3b42c600f7bf4ad78e2ba745c6e8842b5f4f012c"
 metafile = true
@@ -1742,11 +1722,6 @@ metafile = true
 [[files]]
 file = "mods/mowzies-mobs.pw.toml"
 hash = "55875730ed8ce244b56bf08d818a4ffb3c347a5280a62ba636b82b6aee125e3d"
-metafile = true
-
-[[files]]
-file = "mods/multi-piston.pw.toml"
-hash = "680583e1e6c2b4aa4251b25f4887d7e865dfa889268052c498ef152dedee812a"
 metafile = true
 
 [[files]]
@@ -1940,11 +1915,6 @@ hash = "5dfd5e42573659ad84a5d870082aae38aaa8469aba2655e5b2cb14de4ca4cbdd"
 metafile = true
 
 [[files]]
-file = "mods/structurize.pw.toml"
-hash = "65f306d495b944b81049dbe2d339060f7bc62106e750242fa19a34ab5ebc4ac0"
-metafile = true
-
-[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "45a53404a7460d30dbf6d7689d267059106243423edb75844946e1d56f4dcc0e"
 metafile = true
@@ -1991,11 +1961,6 @@ metafile = true
 [[files]]
 file = "mods/tiny-skeletons.pw.toml"
 hash = "59afa0b70a3b3513691a15f288f964fed351f64458d46df2649a64f34abfd1d4"
-metafile = true
-
-[[files]]
-file = "mods/towntalk.pw.toml"
-hash = "32e0f6bce7adc5b09ba3350110ac4be7ee04e556db35ba1db97bacfabd31e4dc"
 metafile = true
 
 [[files]]
