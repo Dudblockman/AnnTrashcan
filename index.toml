@@ -1337,8 +1337,8 @@ hash = "c9211dcfc7fef0f73c3c562fd53f7ef5a80b5fd378eb9be020918e06b803dfdf"
 metafile = true
 
 [[files]]
-file = "mods/crackers-wither-storm-mod.pw.toml"
-hash = "6752a3970c0dfef9abdd6fdd389a23f2df88332356a6e8568b99ab9c68485d66"
+file = "mods/create-better-fps.pw.toml"
+hash = "2233421b0b80d07477e5753ffb33934abd53c2069b94a6c492841761f5068b0b"
 metafile = true
 
 [[files]]
@@ -1578,7 +1578,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "f57b760f1db9b4033c89bd46a296b48e0d6c547de4b60e724e799608dab41bef"
+hash = "598758f152e98916bc6eea2ad73a82b47a6e6934f4b0ba1e1f6593773afd1a50"
 metafile = true
 
 [[files]]
@@ -1598,7 +1598,7 @@ metafile = true
 
 [[files]]
 file = "mods/hex-casting.pw.toml"
-hash = "59a167a2e05a518d25d1e6f1b4789bad66a47e7fa2909817c5ec433c7aa46661"
+hash = "61e5f0c2fc067877744d9cdbed9704e4da4933a4be893e5ef61174346fb13af6"
 metafile = true
 
 [[files]]
@@ -1606,8 +1606,8 @@ file = "mods/hexal-forge-1.20.1-0.3.0-3-skyevg-unofficial.jar"
 hash = "319c97bf00a879d34c146cbbfcec6c29f97a591abc92c293281d99fff3cf9605"
 
 [[files]]
-file = "mods/hexcasting.pw.toml"
-hash = "ded41a5d1d88d386654ea5d55452ecf1aa95c136842894930009f6e2b67d5181"
+file = "mods/hexcassettes.pw.toml"
+hash = "39e27b12d6b188df2b249bf84ed8427c62a7d9c9802ab0469304d554f89f43be"
 metafile = true
 
 [[files]]
@@ -1615,8 +1615,8 @@ file = "mods/hexdebug-forge-0.3.0+1.20.1-SNAPSHOT.jar"
 hash = "3226442451648307164c1b4211fe6cbad1e6cca1bf5d86cca20d2f8198d6e5db"
 
 [[files]]
-file = "mods/hextweaks.pw.toml"
-hash = "3920e14488c4d2c89fbb32354cba5eb0feb457ef38815af9f2c22acef4f143bd"
+file = "mods/hexical.pw.toml"
+hash = "353bc9603d4bfa25ce7e2e15a1a8cf34f6ab18695cdafd8c4e0d351e841ac157"
 metafile = true
 
 [[files]]
@@ -1860,11 +1860,6 @@ hash = "346314904e0a035d68514e7d9e332d4a63e288abc7fd7bdfaf6d655c511a5916"
 metafile = true
 
 [[files]]
-file = "mods/regions-unexplored.pw.toml"
-hash = "cc64ca541c4710726dc3fa4b283b1260cfb2d3ff8d1784f80e0180d248c35688"
-metafile = true
-
-[[files]]
 file = "mods/relics-mod.pw.toml"
 hash = "df0cc833f2c0c5548bd6752434e3cd3a944b7115b33d61c0bb2625a4c8b9b1af"
 metafile = true
@@ -1951,6 +1946,11 @@ metafile = true
 [[files]]
 file = "mods/tetras-delight.pw.toml"
 hash = "07c4fff4a24c28c775d004af359483468ff1046189c357b52e63f4fc61be1abd"
+metafile = true
+
+[[files]]
+file = "mods/the-abyss-chapter-ii.pw.toml"
+hash = "95a425fd38e680decba345a0f950c6a88bad81de52c5dccd48a8b600665d3aa1"
 metafile = true
 
 [[files]]
