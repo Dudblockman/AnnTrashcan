@@ -1188,6 +1188,11 @@ hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
+file = "mods/art-of-forging-a-tetra-addon.pw.toml"
+hash = "36291d22a203786b8e00ac34126d592a2d57732f1a7a9f031697e22f1d85933b"
+metafile = true
+
+[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "af81664fa766bb0cb2f4a383f2464e38300c28ebefcb0b87a53c9bf22873eaca"
 metafile = true
@@ -1203,18 +1208,8 @@ hash = "8c677e681282f62dc0da555146cccb2fc4e6d59516a48f8dbd6da90dc3d8e596"
 metafile = true
 
 [[files]]
-file = "mods/bclib.pw.toml"
-hash = "0c6982d793283b27ef35fdc3b57b7b9554fbc162c03ac7431ebbee9b1d5b241c"
-metafile = true
-
-[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "6d369d90dac6730c6faa243bf73d00d9945e2a932c9c031eb7619d979eaebe8d"
-metafile = true
-
-[[files]]
-file = "mods/better-chunk-loading-forge-fabric.pw.toml"
-hash = "7499dcfc1c246bf1ceb3b82992cc7478a9d8e29900f6c77c1c2a425665b4841d"
 metafile = true
 
 [[files]]
@@ -1243,6 +1238,11 @@ hash = "058699e4832d0cf5396c5ea29244100f0c0e39a8d7aa5b64c2afdcc3cb8c8145"
 metafile = true
 
 [[files]]
+file = "mods/bossominium.pw.toml"
+hash = "4441f60a78391a1a22115efa51e4f63dbc25ce97781867be4d65ec84f44efcf9"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "8a4b1bb77de5a88e4cc3815a75c447a3f9d08412f2814261452b27bc47daa011"
 metafile = true
@@ -1268,11 +1268,6 @@ hash = "14481081a9e233f4ba57df8a77ce028184818143eae1c73b60749ea482c912e9"
 metafile = true
 
 [[files]]
-file = "mods/caupona.pw.toml"
-hash = "224ced2eac669efa7195f8aa5433198d00fb6d07b2f6f36161c052a9c19a3630"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "9c848ce0b48618f6aba15d09692d1f11da522e7e854b1c1276229e1ecdef618a"
 metafile = true
@@ -1290,6 +1285,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
+metafile = true
+
+[[files]]
+file = "mods/cobweb.pw.toml"
+hash = "bc5bde51620622b9f415bcc3dfea4dca5bd17171383cf4290e1075b7352adbe0"
 metafile = true
 
 [[files]]
@@ -1389,6 +1389,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "9582c04926dd9cea7f68f6f1b4e068bd2ec3f6fcb2734497d885364c6b74b1e1"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "6a62d8663df5fe33f18c8a0d3784a3aab183b252c620c45fc98e677a71b06cde"
 metafile = true
 
 [[files]]
@@ -1606,12 +1611,18 @@ hash = "ded41a5d1d88d386654ea5d55452ecf1aa95c136842894930009f6e2b67d5181"
 metafile = true
 
 [[files]]
-file = "mods/hexdebug-forge-0.3.0+1.20.1-SNAPSHOT.jar"
-hash = "3226442451648307164c1b4211fe6cbad1e6cca1bf5d86cca20d2f8198d6e5db"
+file = "mods/hexdebug.pw.toml"
+hash = "324da80a3215bb8729330dadbe6f5ddc022b7d29411c29c803a027c0aff84e4f"
+metafile = true
 
 [[files]]
 file = "mods/hextweaks.pw.toml"
 hash = "3920e14488c4d2c89fbb32354cba5eb0feb457ef38815af9f2c22acef4f143bd"
+metafile = true
+
+[[files]]
+file = "mods/ice-and-fire-dragons.pw.toml"
+hash = "94c7c45a70d0cea86695ecd467f8e5c22510442c53c44291a570986e234428e5"
 metafile = true
 
 [[files]]
@@ -1642,6 +1653,11 @@ metafile = true
 [[files]]
 file = "mods/integrated-villages.pw.toml"
 hash = "da2fd8a09c9c930931409a8c454a82ec4b8f165c33ebb5bbc7f0bfd7819443a1"
+metafile = true
+
+[[files]]
+file = "mods/ioticblocks.pw.toml"
+hash = "e020308ed7d53d35454e422c23b93bcfd3d2ab14b32c229ce767908c5064b5ce"
 metafile = true
 
 [[files]]
@@ -1697,6 +1713,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "0ecdd609ce9f0d7be12e7e7dfd8317152c7c93164afe8e5c92dcfcb80c7a26e8"
+metafile = true
+
+[[files]]
+file = "mods/moogs-voyager-structures.pw.toml"
+hash = "022512fcbf0bd609e00c359cf1838379a8520be120ba55d187d8ee11be24dbde"
 metafile = true
 
 [[files]]
@@ -1890,13 +1911,18 @@ hash = "0d5c9487a5fcffa4eff7cf88033b7d736f945d858ff2e641265d15e0ef8f59d0"
 metafile = true
 
 [[files]]
+file = "mods/soul-fire-d.pw.toml"
+hash = "e57e859ea89936329910a05213e4f93e9972bc8c3a767bea031a34041274f72d"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "d48389b613746c1913f8b14f24113c662951b54dba44808c5c42d11c9b139e9b"
 metafile = true
 
 [[files]]
-file = "mods/spice-of-life-onion.pw.toml"
-hash = "c510494fb37ced4ad2d28573bf0ac6723e6541fb6a2d362593288f7bf4ecd2bc"
+file = "mods/spice-of-life-valheim-edition.pw.toml"
+hash = "3d62320f8ea7bdd9821d4de087420c40387879813c846f225574c6398e762b92"
 metafile = true
 
 [[files]]
@@ -1934,6 +1960,11 @@ hash = "8f40eba1e90bc4accf20ddca9f3e93cbdb5c4a724820db36661446a50fa42414"
 metafile = true
 
 [[files]]
+file = "mods/tetracelium.pw.toml"
+hash = "40070ccdbae58ee140f3c41b94abb61e88d2496348b00f0b601abab70f0c111a"
+metafile = true
+
+[[files]]
 file = "mods/tetranomicon.pw.toml"
 hash = "e1c67611aa8ac579d7299e273cac8798b28927b9366ec799cc5133cced89d958"
 metafile = true
@@ -1944,11 +1975,6 @@ hash = "07c4fff4a24c28c775d004af359483468ff1046189c357b52e63f4fc61be1abd"
 metafile = true
 
 [[files]]
-file = "mods/the-abyss-chapter-ii.pw.toml"
-hash = "95a425fd38e680decba345a0f950c6a88bad81de52c5dccd48a8b600665d3aa1"
-metafile = true
-
-[[files]]
 file = "mods/the-bumblezone.pw.toml"
 hash = "32a2b9290cc811b5a3f6f9fcb8427ab7f1d5b517fe446c599f967e20f4a1efe3"
 metafile = true
@@ -1956,6 +1982,11 @@ metafile = true
 [[files]]
 file = "mods/tiny-skeletons.pw.toml"
 hash = "59afa0b70a3b3513691a15f288f964fed351f64458d46df2649a64f34abfd1d4"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "00a0cba74675174812eea16aca533adfe9bac7b30a81a7e33dd81bd9343b45c4"
 metafile = true
 
 [[files]]
@@ -1976,6 +2007,16 @@ metafile = true
 [[files]]
 file = "mods/unloaded-activity.pw.toml"
 hash = "7f30375fcb89c203c5425d07e088c0876a7973c52062e807362a1391c0bb7b94"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-core.pw.toml"
+hash = "d8d6daa50fdac46d3176520da691a94c6905465c164dd07458ac02338ae2f62f"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-structures.pw.toml"
+hash = "9f2c16f52891ba7d1442115421baaedc93a0bff1b7288311a8ac4a48cdf6f180"
 metafile = true
 
 [[files]]
