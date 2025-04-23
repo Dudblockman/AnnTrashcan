@@ -1188,11 +1188,6 @@ hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
-file = "mods/art-of-forging-a-tetra-addon.pw.toml"
-hash = "36291d22a203786b8e00ac34126d592a2d57732f1a7a9f031697e22f1d85933b"
-metafile = true
-
-[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "af81664fa766bb0cb2f4a383f2464e38300c28ebefcb0b87a53c9bf22873eaca"
 metafile = true
@@ -1742,7 +1737,7 @@ metafile = true
 
 [[files]]
 file = "mods/mutil.pw.toml"
-hash = "6161befd655a400fb4a07d8702b62c3f24f828d5ee6336c3dcacd6bcaff78fc1"
+hash = "d60f6a6d46b66a76a6e3d185177a20cba42b83ba37f34db0fbe3c9babab7c837"
 metafile = true
 
 [[files]]
