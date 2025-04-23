@@ -1,0 +1,13 @@
+name = "Lucky's Blocky Siege"
+filename = "blocky_siege-6.0.2-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5BFVFWlo/versions/3lKpcaUY/blocky_siege-6.0.2-1.20.1.jar"
+hash-format = "sha512"
+hash = "fd576dcf608ba15a9318a1e703bbfbcde3d405276e2d8daffc72a7245938fa00548b70ac15397a565dba6e994e0216ec141cd5eafdf52e00db74c6ada1d40921"
+
+[update]
+[update.modrinth]
+mod-id = "5BFVFWlo"
+version = "3lKpcaUY"

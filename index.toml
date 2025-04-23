@@ -1357,6 +1357,11 @@ hash = "77cc97055c62c20185c31781c0be40db248dc04a728085bec7cfea37d018df16"
 metafile = true
 
 [[files]]
+file = "mods/create-guardian-beam-defense.pw.toml"
+hash = "ebbeae6d65c714b0bcd25b5f600ae445d16a604b15347b42e2bd3960b208cbf5"
+metafile = true
+
+[[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "daf1255fbd2312eaef5aed51d659c4db0d5bd99ff193dfd9425b5cf0e2121ab9"
 metafile = true
@@ -1573,7 +1578,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "598758f152e98916bc6eea2ad73a82b47a6e6934f4b0ba1e1f6593773afd1a50"
+hash = "f57b760f1db9b4033c89bd46a296b48e0d6c547de4b60e724e799608dab41bef"
 metafile = true
 
 [[files]]
@@ -1683,6 +1688,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "a3fc2800be76f3406961d01ab4ab6805b4ca5e269f53d3cb2d58ea39d6afa9f2"
+metafile = true
+
+[[files]]
+file = "mods/luckys-blocky-siege.pw.toml"
+hash = "c87642ddfa41c37c0e4c090ff0338d2ae9c262f9e0dba6d4408d5dde8216317a"
 metafile = true
 
 [[files]]
