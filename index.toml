@@ -1028,7 +1028,7 @@ metafile = true
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
-hash = "3d8e430c9a57371e4167f0deef00fa000d545a5c644cf09f6e3b46b6d21e6834"
+hash = "a21507bc60d5503dd97d43cff689503f95d11ff462a1795cdbde7261bcb51fe5"
 metafile = true
 
 [[files]]
@@ -1167,11 +1167,6 @@ hash = "da5709533d85150e7149c7339729d90e73750a3b6db07254669acf81727d5bf3"
 metafile = true
 
 [[files]]
-file = "mods/compressedcreativity.pw.toml"
-hash = "39fc70ada6da75706190a552190ef37e0707d15c6126abdf48baecb3b7359c13"
-metafile = true
-
-[[files]]
 file = "mods/configured.pw.toml"
 hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
 metafile = true
@@ -1239,6 +1234,11 @@ metafile = true
 [[files]]
 file = "mods/create-mechanical-extruder.pw.toml"
 hash = "c8c608299118458580c6d928251435716b8d1de93e0ac5effc19b3fb09f77be3"
+metafile = true
+
+[[files]]
+file = "mods/create-mobile-packages.pw.toml"
+hash = "18472404272ba03fef3a261924f8209504314e174985cc15725954d8cbd32f8e"
 metafile = true
 
 [[files]]
