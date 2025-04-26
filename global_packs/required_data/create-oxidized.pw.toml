@@ -1,0 +1,13 @@
+name = "Create: Oxidized"
+filename = "create_oxidized_v1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ojYM7zKx/versions/x5C8xmH0/create_oxidized_v1.zip"
+hash-format = "sha512"
+hash = "23b0b8545847b75d642bc664983d2e02af4df06147634b57bebe60cf963f7f2384fc535e3acdd479ce7f6f5a026d23f6ad68f94988ad72654baa3f26d70f5975"
+
+[update]
+[update.modrinth]
+mod-id = "ojYM7zKx"
+version = "x5C8xmH0"

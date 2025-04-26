@@ -1,0 +1,13 @@
+name = "CreateBetterFps"
+filename = "Ponder-Forge-1.20.1-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lMYIHZNH/versions/UaYq5a7I/Ponder-Forge-1.20.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "d97232df9d830cc425b5cec9ede8d40f591db9415a573b23b922c8fca0494a9874857c34aa2638b70fd767b1043fed168f6f615391e79dd28392e2d7cf7985a0"
+
+[update]
+[update.modrinth]
+mod-id = "lMYIHZNH"
+version = "UaYq5a7I"
